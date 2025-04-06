@@ -1,0 +1,4892 @@
+Found benchmark throughput 25226 for cpu type Intel(R)Core(TM)i9-10900XCPU@3.70GHz, benchmark regular
+
+Mem_heap_hi: 0x7efff72e9a0f
+CurrentBlockFreed: 0x7efff72e97d0
+CurrentBlockSize: 49
+NextBlock Pointer: 0x7efff72e9800
+
+Nextblock size: 177
+
+
+Mem_heap_hi: 0x7efff72eacdf
+CurrentBlockFreed: 0x7efff72e9800
+CurrentBlockSize: 177
+NextBlock Pointer: 0x7efff72e98b0
+
+Nextblock size: 97
+
+
+Mem_heap_hi: 0x7efff72eadef
+CurrentBlockFreed: 0x7efff72e96f0
+CurrentBlockSize: 225
+NextBlock Pointer: 0x7efff72e97d0
+
+Nextblock size: 48
+
+
+Mem_heap_hi: 0x7efff72eaeef
+CurrentBlockFreed: 0x7efff72e9800
+CurrentBlockSize: 177
+NextBlock Pointer: 0x7efff72e98b0
+
+Nextblock size: 97
+
+
+Mem_heap_hi: 0x7efff72f9a9f
+CurrentBlockFreed: 0x7efff72e98b0
+CurrentBlockSize: 97
+NextBlock Pointer: 0x7efff72e9910
+
+Nextblock size: 129
+
+
+Mem_heap_hi: 0x7efff72f9bef
+CurrentBlockFreed: 0x7efff72e97d0
+CurrentBlockSize: 49
+NextBlock Pointer: 0x7efff72e9800
+
+Nextblock size: 177
+
+
+Mem_heap_hi: 0x7efff72f9c7f
+CurrentBlockFreed: 0x7efff72e9910
+CurrentBlockSize: 129
+NextBlock Pointer: 0x7efff72e9990
+
+Nextblock size: 129
+
+
+Mem_heap_hi: 0x7efff72f9d4f
+CurrentBlockFreed: 0x7efff72f9b30
+CurrentBlockSize: 193
+NextBlock Pointer: 0x7efff72f9bf0
+
+Nextblock size: 145
+
+
+Mem_heap_hi: 0x7efff72fd3cf
+CurrentBlockFreed: 0x7efff72e9910
+CurrentBlockSize: 129
+NextBlock Pointer: 0x7efff72e9990
+
+Nextblock size: 129
+
+
+Mem_heap_hi: 0x7efff72fd46f
+CurrentBlockFreed: 0x7efff72e9910
+CurrentBlockSize: 129
+NextBlock Pointer: 0x7efff72e9990
+
+Nextblock size: 129
+
+
+Mem_heap_hi: 0x7efff730065f
+CurrentBlockFreed: 0x7efff72f9bf0
+CurrentBlockSize: 145
+NextBlock Pointer: 0x7efff72f9c80
+
+Nextblock size: 209
+
+
+Mem_heap_hi: 0x7efff730072f
+CurrentBlockFreed: 0x7efff7300660
+CurrentBlockSize: 209
+NextBlock Pointer: 0x7efff7300730
+was out of bounds
+
+Mem_heap_hi: 0x7efff730402f
+CurrentBlockFreed: 0x7efff72eace0
+CurrentBlockSize: 273
+NextBlock Pointer: 0x7efff72eadf0
+
+Nextblock size: 257
+
+
+Mem_heap_hi: 0x7efff730402f
+CurrentBlockFreed: 0x7efff72f9bf0
+CurrentBlockSize: 145
+NextBlock Pointer: 0x7efff72f9c80
+
+Nextblock size: 209
+
+
+Mem_heap_hi: 0x7efff730402f
+CurrentBlockFreed: 0x7efff72eaef0
+CurrentBlockSize: 257
+NextBlock Pointer: 0x7efff72eaff0
+
+Nextblock size: 60081
+
+
+Mem_heap_hi: 0x7efff7305f2f
+CurrentBlockFreed: 0x7efff7300400
+CurrentBlockSize: 609
+NextBlock Pointer: 0x7efff7300660
+
+Nextblock size: 209
+
+
+Mem_heap_hi: 0x7efff7305f2f
+CurrentBlockFreed: 0x7efff72eace0
+CurrentBlockSize: 273
+NextBlock Pointer: 0x7efff72eadf0
+
+Nextblock size: 257
+
+
+Mem_heap_hi: 0x7efff73065ef
+CurrentBlockFreed: 0x7efff7306500
+CurrentBlockSize: 241
+NextBlock Pointer: 0x7efff73065f0
+was out of bounds
+
+Mem_heap_hi: 0x7efff730ee7f
+CurrentBlockFreed: 0x7efff72f9c80
+CurrentBlockSize: 209
+NextBlock Pointer: 0x7efff72f9d50
+
+Nextblock size: 3649
+
+
+Mem_heap_hi: 0x7efff730ee7f
+CurrentBlockFreed: 0x7efff73081c0
+CurrentBlockSize: 27841
+NextBlock Pointer: 0x7efff730ee80
+was out of bounds
+
+Mem_heap_hi: 0x7efff730ee7f
+CurrentBlockFreed: 0x7efff72f9bf0
+CurrentBlockSize: 145
+NextBlock Pointer: 0x7efff72f9c80
+
+Nextblock size: 209
+
+
+Mem_heap_hi: 0x7efff733cf6f
+CurrentBlockFreed: 0x7efff7300660
+CurrentBlockSize: 209
+NextBlock Pointer: 0x7efff7300730
+
+Nextblock size: 225
+
+
+Mem_heap_hi: 0x7efff733cf6f
+CurrentBlockFreed: 0x7efff730ee80
+CurrentBlockSize: 188657
+NextBlock Pointer: 0x7efff733cf70
+was out of bounds
+
+Mem_heap_hi: 0x7efff733cf6f
+CurrentBlockFreed: 0x7efff7308150
+CurrentBlockSize: 113
+NextBlock Pointer: 0x7efff73081c0
+
+Nextblock size: 27841
+
+
+Mem_heap_hi: 0x7efff733cf6f
+CurrentBlockFreed: 0x7efff72e96f0
+CurrentBlockSize: 225
+NextBlock Pointer: 0x7efff72e97d0
+
+Nextblock size: 48
+
+
+Mem_heap_hi: 0x7efff733cf6f
+CurrentBlockFreed: 0x7efff730ee80
+CurrentBlockSize: 188657
+NextBlock Pointer: 0x7efff733cf70
+was out of bounds
+
+Mem_heap_hi: 0x7efff733cf6f
+CurrentBlockFreed: 0x7efff730ee80
+CurrentBlockSize: 188657
+NextBlock Pointer: 0x7efff733cf70
+was out of bounds
+
+Mem_heap_hi: 0x7efff736067f
+CurrentBlockFreed: 0x7efff72fd750
+CurrentBlockSize: 11441
+NextBlock Pointer: 0x7efff7300400
+
+Nextblock size: 609
+
+
+Mem_heap_hi: 0x7efff736067f
+CurrentBlockFreed: 0x7efff72eace0
+CurrentBlockSize: 273
+NextBlock Pointer: 0x7efff72eadf0
+
+Nextblock size: 257
+
+
+Mem_heap_hi: 0x7efff7360f1f
+CurrentBlockFreed: 0x7efff7306440
+CurrentBlockSize: 193
+NextBlock Pointer: 0x7efff7306500
+
+Nextblock size: 241
+
+
+Mem_heap_hi: 0x7efff73610df
+CurrentBlockFreed: 0x7efff7360f20
+CurrentBlockSize: 65
+NextBlock Pointer: 0x7efff7360f60
+
+Nextblock size: 273
+
+
+Mem_heap_hi: 0x7efff7385cff
+CurrentBlockFreed: 0x7efff7306440
+CurrentBlockSize: 193
+NextBlock Pointer: 0x7efff7306500
+
+Nextblock size: 241
+
+
+Mem_heap_hi: 0x7efff73b723f
+CurrentBlockFreed: 0x7efff7385d00
+CurrentBlockSize: 46081
+NextBlock Pointer: 0x7efff7391100
+
+Nextblock size: 155969
+
+
+Mem_heap_hi: 0x7efff73b73ef
+CurrentBlockFreed: 0x7efff7360f20
+CurrentBlockSize: 65
+NextBlock Pointer: 0x7efff7360f60
+
+Nextblock size: 273
+
+
+Mem_heap_hi: 0x7efff73b73ef
+CurrentBlockFreed: 0x7efff7305f30
+CurrentBlockSize: 161
+NextBlock Pointer: 0x7efff7305fd0
+
+Nextblock size: 1137
+
+
+Mem_heap_hi: 0x7efff73b747f
+CurrentBlockFreed: 0x7efff73b73f0
+CurrentBlockSize: 145
+NextBlock Pointer: 0x7efff73b7480
+was out of bounds
+
+Mem_heap_hi: 0x7efff73b826f
+CurrentBlockFreed: 0x7efff73b73f0
+CurrentBlockSize: 145
+NextBlock Pointer: 0x7efff73b7480
+
+Nextblock size: 3569
+
+
+Mem_heap_hi: 0x7efff73b82cf
+CurrentBlockFreed: 0x7efff7360f20
+CurrentBlockSize: 65
+NextBlock Pointer: 0x7efff7360f60
+
+Nextblock size: 273
+
+
+Mem_heap_hi: 0x7efff73b839f
+CurrentBlockFreed: 0x7efff73b8270
+CurrentBlockSize: 97
+NextBlock Pointer: 0x7efff73b82d0
+
+Nextblock size: 209
+
+
+Mem_heap_hi: 0x7efff73ba7df
+CurrentBlockFreed: 0x7efff7300660
+CurrentBlockSize: 209
+NextBlock Pointer: 0x7efff7300730
+
+Nextblock size: 225
+
+
+Mem_heap_hi: 0x7efff73beaef
+CurrentBlockFreed: 0x7efff7300660
+CurrentBlockSize: 209
+NextBlock Pointer: 0x7efff7300730
+
+Nextblock size: 225
+
+
+Mem_heap_hi: 0x7efff73beaef
+CurrentBlockFreed: 0x7efff72e98b0
+CurrentBlockSize: 97
+NextBlock Pointer: 0x7efff72e9910
+
+Nextblock size: 129
+
+
+Mem_heap_hi: 0x7efff73beaef
+CurrentBlockFreed: 0x7efff73610e0
+CurrentBlockSize: 150561
+NextBlock Pointer: 0x7efff7385d00
+
+Nextblock size: 46081
+
+
+Mem_heap_hi: 0x7efff73beaef
+CurrentBlockFreed: 0x7efff7360f20
+CurrentBlockSize: 65
+NextBlock Pointer: 0x7efff7360f60
+
+Nextblock size: 273
+
+
+Mem_heap_hi: 0x7efff73c786f
+CurrentBlockFreed: 0x7efff73beaf0
+CurrentBlockSize: 36225
+NextBlock Pointer: 0x7efff73c7870
+was out of bounds
+
+Mem_heap_hi: 0x7efff73c786f
+CurrentBlockFreed: 0x7efff73066d0
+CurrentBlockSize: 6785
+NextBlock Pointer: 0x7efff7308150
+
+Nextblock size: 113
+
+
+Mem_heap_hi: 0x7efff73c786f
+CurrentBlockFreed: 0x7efff72fd630
+CurrentBlockSize: 289
+NextBlock Pointer: 0x7efff72fd750
+
+Nextblock size: 11441
+
+
+Mem_heap_hi: 0x7efff73c786f
+CurrentBlockFreed: 0x7efff72f9bf0
+CurrentBlockSize: 145
+NextBlock Pointer: 0x7efff72f9c80
+
+Nextblock size: 209
+
+
+Mem_heap_hi: 0x7efff73c786f
+CurrentBlockFreed: 0x7efff72eaef0
+CurrentBlockSize: 257
+NextBlock Pointer: 0x7efff72eaff0
+
+Nextblock size: 60081
+
+
+Mem_heap_hi: 0x7efff73c821f
+CurrentBlockFreed: 0x7efff72f9bf0
+CurrentBlockSize: 145
+NextBlock Pointer: 0x7efff72f9c80
+
+Nextblock size: 209
+
+
+Mem_heap_hi: 0x7efff73c821f
+CurrentBlockFreed: 0x7efff7306440
+CurrentBlockSize: 193
+NextBlock Pointer: 0x7efff7306500
+
+Nextblock size: 241
+
+
+Mem_heap_hi: 0x7efff73db03f
+CurrentBlockFreed: 0x7efff7360680
+CurrentBlockSize: 2209
+NextBlock Pointer: 0x7efff7360f20
+
+Nextblock size: 64
+
+
+Mem_heap_hi: 0x7efff73db13f
+CurrentBlockFreed: 0x7efff7304c40
+CurrentBlockSize: 4849
+NextBlock Pointer: 0x7efff7305f30
+
+Nextblock size: 161
+
+
+Mem_heap_hi: 0x7efff74150cf
+CurrentBlockFreed: 0x7efff7361070
+CurrentBlockSize: 113
+NextBlock Pointer: 0x7efff73610e0
+
+Nextblock size: 150561
+
+
+Mem_heap_hi: 0x7efff74151df
+CurrentBlockFreed: 0x7efff74150d0
+CurrentBlockSize: 273
+NextBlock Pointer: 0x7efff74151e0
+was out of bounds
+
+Mem_heap_hi: 0x7efff74169cf
+CurrentBlockFreed: 0x7efff7360680
+CurrentBlockSize: 2209
+NextBlock Pointer: 0x7efff7360f20
+
+Nextblock size: 64
+
+
+Mem_heap_hi: 0x7efff74169cf
+CurrentBlockFreed: 0x7efff73081c0
+CurrentBlockSize: 27841
+NextBlock Pointer: 0x7efff730ee80
+
+Nextblock size: 188657
+
+
+Mem_heap_hi: 0x7efff74169cf
+CurrentBlockFreed: 0x7efff72e7020
+CurrentBlockSize: 9937
+NextBlock Pointer: 0x7efff72e96f0
+
+Nextblock size: 225
+
+
+Mem_heap_hi: 0x7efff74169cf
+CurrentBlockFreed: 0x7efff74150d0
+CurrentBlockSize: 273
+NextBlock Pointer: 0x7efff74151e0
+
+Nextblock size: 6129
+
+
+Mem_heap_hi: 0x7efff74169cf
+CurrentBlockFreed: 0x7efff72e7020
+CurrentBlockSize: 9937
+NextBlock Pointer: 0x7efff72e96f0
+
+Nextblock size: 225
+
+
+Mem_heap_hi: 0x7efff74379ef
+CurrentBlockFreed: 0x7efff741bd30
+CurrentBlockSize: 113857
+NextBlock Pointer: 0x7efff74379f0
+was out of bounds
+
+Mem_heap_hi: 0x7efff74379ef
+CurrentBlockFreed: 0x7efff73066d0
+CurrentBlockSize: 6785
+NextBlock Pointer: 0x7efff7308150
+
+Nextblock size: 113
+
+
+Mem_heap_hi: 0x7efff74379ef
+CurrentBlockFreed: 0x7efff741bd30
+CurrentBlockSize: 113857
+NextBlock Pointer: 0x7efff74379f0
+was out of bounds
+
+Mem_heap_hi: 0x7efff743b1ff
+CurrentBlockFreed: 0x7efff72fd630
+CurrentBlockSize: 289
+NextBlock Pointer: 0x7efff72fd750
+
+Nextblock size: 11441
+
+
+Mem_heap_hi: 0x7efff7443c3f
+CurrentBlockFreed: 0x7efff7306500
+CurrentBlockSize: 241
+NextBlock Pointer: 0x7efff73065f0
+
+Nextblock size: 225
+
+
+Mem_heap_hi: 0x7efff7443d2f
+CurrentBlockFreed: 0x7efff7443c40
+CurrentBlockSize: 241
+NextBlock Pointer: 0x7efff7443d30
+was out of bounds
+
+Mem_heap_hi: 0x7efff7443ecf
+CurrentBlockFreed: 0x7efff7443d30
+CurrentBlockSize: 417
+NextBlock Pointer: 0x7efff7443ed0
+was out of bounds
+
+Mem_heap_hi: 0x7efff744ed9f
+CurrentBlockFreed: 0x7efff7444610
+CurrentBlockSize: 42897
+NextBlock Pointer: 0x7efff744eda0
+was out of bounds
+
+Mem_heap_hi: 0x7efff744ed9f
+CurrentBlockFreed: 0x7efff73c8220
+CurrentBlockSize: 77345
+NextBlock Pointer: 0x7efff73db040
+
+Nextblock size: 257
+
+
+Mem_heap_hi: 0x7efff744ed9f
+CurrentBlockFreed: 0x7efff72fd630
+CurrentBlockSize: 289
+NextBlock Pointer: 0x7efff72fd750
+
+Nextblock size: 11441
+
+
+Mem_heap_hi: 0x7efff744ed9f
+CurrentBlockFreed: 0x7efff7444610
+CurrentBlockSize: 42897
+NextBlock Pointer: 0x7efff744eda0
+was out of bounds
+
+Mem_heap_hi: 0x7efff744ed9f
+CurrentBlockFreed: 0x7efff73610e0
+CurrentBlockSize: 150561
+NextBlock Pointer: 0x7efff7385d00
+
+Nextblock size: 46081
+
+
+Mem_heap_hi: 0x7efff744ed9f
+CurrentBlockFreed: 0x7efff74379f0
+CurrentBlockSize: 14353
+NextBlock Pointer: 0x7efff743b200
+
+Nextblock size: 225
+
+
+Mem_heap_hi: 0x7efff744ed9f
+CurrentBlockFreed: 0x7efff7306440
+CurrentBlockSize: 193
+NextBlock Pointer: 0x7efff7306500
+
+Nextblock size: 241
+
+
+Mem_heap_hi: 0x7efff744ed9f
+CurrentBlockFreed: 0x7efff7360f60
+CurrentBlockSize: 273
+NextBlock Pointer: 0x7efff7361070
+
+Nextblock size: 113
+
+
+Mem_heap_hi: 0x7efff744ed9f
+CurrentBlockFreed: 0x7efff74379f0
+CurrentBlockSize: 14353
+NextBlock Pointer: 0x7efff743b200
+
+Nextblock size: 225
+
+
+Mem_heap_hi: 0x7efff744ed9f
+CurrentBlockFreed: 0x7efff7306440
+CurrentBlockSize: 193
+NextBlock Pointer: 0x7efff7306500
+
+Nextblock size: 241
+
+
+Mem_heap_hi: 0x7efff744ed9f
+CurrentBlockFreed: 0x7efff7308150
+CurrentBlockSize: 113
+NextBlock Pointer: 0x7efff73081c0
+
+Nextblock size: 27841
+
+
+Mem_heap_hi: 0x7efff747f77f
+CurrentBlockFreed: 0x7efff7308150
+CurrentBlockSize: 113
+NextBlock Pointer: 0x7efff73081c0
+
+Nextblock size: 27841
+
+
+Mem_heap_hi: 0x7efff747f84f
+CurrentBlockFreed: 0x7efff744eda0
+CurrentBlockSize: 199137
+NextBlock Pointer: 0x7efff747f780
+
+Nextblock size: 209
+
+
+Mem_heap_hi: 0x7efff747f84f
+CurrentBlockFreed: 0x7efff744eda0
+CurrentBlockSize: 199137
+NextBlock Pointer: 0x7efff747f780
+
+Nextblock size: 209
+
+
+Mem_heap_hi: 0x7efff747f84f
+CurrentBlockFreed: 0x7efff73065f0
+CurrentBlockSize: 225
+NextBlock Pointer: 0x7efff73066d0
+
+Nextblock size: 6785
+
+
+Mem_heap_hi: 0x7efff747f84f
+CurrentBlockFreed: 0x7efff72fab90
+CurrentBlockSize: 10305
+NextBlock Pointer: 0x7efff72fd3d0
+
+Nextblock size: 161
+
+
+Mem_heap_hi: 0x7efff747f84f
+CurrentBlockFreed: 0x7efff72fd3d0
+CurrentBlockSize: 161
+NextBlock Pointer: 0x7efff72fd470
+
+Nextblock size: 449
+
+
+Mem_heap_hi: 0x7efff747f84f
+CurrentBlockFreed: 0x7efff72fab90
+CurrentBlockSize: 10305
+NextBlock Pointer: 0x7efff72fd3d0
+
+Nextblock size: 160
+
+
+Mem_heap_hi: 0x7efff747f84f
+CurrentBlockFreed: 0x7efff72fab90
+CurrentBlockSize: 10305
+NextBlock Pointer: 0x7efff72fd3d0
+
+Nextblock size: 160
+
+
+Mem_heap_hi: 0x7efff749321f
+CurrentBlockFreed: 0x7efff72eace0
+CurrentBlockSize: 273
+NextBlock Pointer: 0x7efff72eadf0
+
+Nextblock size: 257
+
+
+Mem_heap_hi: 0x7efff749321f
+CurrentBlockFreed: 0x7efff72fab90
+CurrentBlockSize: 10305
+NextBlock Pointer: 0x7efff72fd3d0
+
+Nextblock size: 160
+
+
+Mem_heap_hi: 0x7efff749321f
+CurrentBlockFreed: 0x7efff73db140
+CurrentBlockSize: 237457
+NextBlock Pointer: 0x7efff74150d0
+
+Nextblock size: 273
+
+
+Mem_heap_hi: 0x7efff749321f
+CurrentBlockFreed: 0x7efff7443d30
+CurrentBlockSize: 417
+NextBlock Pointer: 0x7efff7443ed0
+
+Nextblock size: 1857
+
+
+Mem_heap_hi: 0x7efff749321f
+CurrentBlockFreed: 0x7efff7361070
+CurrentBlockSize: 113
+NextBlock Pointer: 0x7efff73610e0
+
+Nextblock size: 150561
+
+
+Mem_heap_hi: 0x7efff749321f
+CurrentBlockFreed: 0x7efff7361070
+CurrentBlockSize: 113
+NextBlock Pointer: 0x7efff73610e0
+
+Nextblock size: 150561
+
+
+Mem_heap_hi: 0x7efff74932df
+CurrentBlockFreed: 0x7efff7493220
+CurrentBlockSize: 193
+NextBlock Pointer: 0x7efff74932e0
+was out of bounds
+
+Mem_heap_hi: 0x7efff7493b2f
+CurrentBlockFreed: 0x7efff7361070
+CurrentBlockSize: 113
+NextBlock Pointer: 0x7efff73610e0
+
+Nextblock size: 150561
+
+
+Mem_heap_hi: 0x7efff7493b2f
+CurrentBlockFreed: 0x7efff74932e0
+CurrentBlockSize: 2129
+NextBlock Pointer: 0x7efff7493b30
+was out of bounds
+
+Mem_heap_hi: 0x7efff749433f
+CurrentBlockFreed: 0x7efff72e9800
+CurrentBlockSize: 177
+NextBlock Pointer: 0x7efff72e98b0
+
+Nextblock size: 96
+
+
+Mem_heap_hi: 0x7efff749433f
+CurrentBlockFreed: 0x7efff7494240
+CurrentBlockSize: 257
+NextBlock Pointer: 0x7efff7494340
+was out of bounds
+
+Mem_heap_hi: 0x7efff749444f
+CurrentBlockFreed: 0x7efff73065f0
+CurrentBlockSize: 225
+NextBlock Pointer: 0x7efff73066d0
+
+Nextblock size: 6785
+
+
+Mem_heap_hi: 0x7efff749444f
+CurrentBlockFreed: 0x7efff7494340
+CurrentBlockSize: 273
+NextBlock Pointer: 0x7efff7494450
+was out of bounds
+
+Mem_heap_hi: 0x7efff749444f
+CurrentBlockFreed: 0x7efff7494340
+CurrentBlockSize: 273
+NextBlock Pointer: 0x7efff7494450
+was out of bounds
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff7494450
+CurrentBlockSize: 49569
+NextBlock Pointer: 0x7efff74a05f0
+was out of bounds
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff7494450
+CurrentBlockSize: 49569
+NextBlock Pointer: 0x7efff74a05f0
+was out of bounds
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff7385d00
+CurrentBlockSize: 46081
+NextBlock Pointer: 0x7efff7391100
+
+Nextblock size: 155969
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff72f9d50
+CurrentBlockSize: 3649
+NextBlock Pointer: 0x7efff72fab90
+
+Nextblock size: 10305
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff73c7870
+CurrentBlockSize: 2481
+NextBlock Pointer: 0x7efff73c8220
+
+Nextblock size: 77345
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff7306440
+CurrentBlockSize: 193
+NextBlock Pointer: 0x7efff7306500
+
+Nextblock size: 241
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff73610e0
+CurrentBlockSize: 150561
+NextBlock Pointer: 0x7efff7385d00
+
+Nextblock size: 46080
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff72f9d50
+CurrentBlockSize: 3649
+NextBlock Pointer: 0x7efff72fab90
+
+Nextblock size: 10305
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff73009d0
+CurrentBlockSize: 145
+NextBlock Pointer: 0x7efff7300a60
+
+Nextblock size: 13777
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff72f9d50
+CurrentBlockSize: 3649
+NextBlock Pointer: 0x7efff72fab90
+
+Nextblock size: 10305
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff73db140
+CurrentBlockSize: 237457
+NextBlock Pointer: 0x7efff74150d0
+
+Nextblock size: 273
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff73db140
+CurrentBlockSize: 237457
+NextBlock Pointer: 0x7efff74150d0
+
+Nextblock size: 273
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff74932e0
+CurrentBlockSize: 2129
+NextBlock Pointer: 0x7efff7493b30
+
+Nextblock size: 1809
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff743b200
+CurrentBlockSize: 225
+NextBlock Pointer: 0x7efff743b2e0
+
+Nextblock size: 35169
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff74932e0
+CurrentBlockSize: 2129
+NextBlock Pointer: 0x7efff7493b30
+
+Nextblock size: 1809
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff74932e0
+CurrentBlockSize: 2129
+NextBlock Pointer: 0x7efff7493b30
+
+Nextblock size: 1809
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff743b200
+CurrentBlockSize: 225
+NextBlock Pointer: 0x7efff743b2e0
+
+Nextblock size: 35169
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff72f9d50
+CurrentBlockSize: 3649
+NextBlock Pointer: 0x7efff72fab90
+
+Nextblock size: 10305
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff72f9d50
+CurrentBlockSize: 3649
+NextBlock Pointer: 0x7efff72fab90
+
+Nextblock size: 10305
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff7385d00
+CurrentBlockSize: 46081
+NextBlock Pointer: 0x7efff7391100
+
+Nextblock size: 155969
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff7443c40
+CurrentBlockSize: 241
+NextBlock Pointer: 0x7efff7443d30
+
+Nextblock size: 417
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff7385d00
+CurrentBlockSize: 46081
+NextBlock Pointer: 0x7efff7391100
+
+Nextblock size: 155969
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff7385d00
+CurrentBlockSize: 46081
+NextBlock Pointer: 0x7efff7391100
+
+Nextblock size: 155969
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff7385d00
+CurrentBlockSize: 46081
+NextBlock Pointer: 0x7efff7391100
+
+Nextblock size: 155969
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff7385d00
+CurrentBlockSize: 46081
+NextBlock Pointer: 0x7efff7391100
+
+Nextblock size: 155969
+
+
+Mem_heap_hi: 0x7efff74bdfdf
+CurrentBlockFreed: 0x7efff7443ed0
+CurrentBlockSize: 1857
+NextBlock Pointer: 0x7efff7444610
+
+Nextblock size: 42897
+
+
+Mem_heap_hi: 0x7efff74bdfdf
+CurrentBlockFreed: 0x7efff7443ed0
+CurrentBlockSize: 1857
+NextBlock Pointer: 0x7efff7444610
+
+Nextblock size: 42897
+
+
+Mem_heap_hi: 0x7efff74bdfdf
+CurrentBlockFreed: 0x7efff7443c40
+CurrentBlockSize: 241
+NextBlock Pointer: 0x7efff7443d30
+
+Nextblock size: 417
+
+
+Mem_heap_hi: 0x7efff74bdfdf
+CurrentBlockFreed: 0x7efff7443c40
+CurrentBlockSize: 241
+NextBlock Pointer: 0x7efff7443d30
+
+Nextblock size: 417
+
+
+Mem_heap_hi: 0x7efff74bdfdf
+CurrentBlockFreed: 0x7efff72e7020
+CurrentBlockSize: 9937
+NextBlock Pointer: 0x7efff72e96f0
+
+Nextblock size: 225
+
+
+Mem_heap_hi: 0x7efff74bdfdf
+CurrentBlockFreed: 0x7efff72e7020
+CurrentBlockSize: 9937
+NextBlock Pointer: 0x7efff72e96f0
+
+Nextblock size: 225
+
+
+Mem_heap_hi: 0x7efff74bdfdf
+CurrentBlockFreed: 0x7efff72e7020
+CurrentBlockSize: 9937
+NextBlock Pointer: 0x7efff72e96f0
+
+Nextblock size: 225
+
+
+Mem_heap_hi: 0x7efff74bdfdf
+CurrentBlockFreed: 0x7efff72e7020
+CurrentBlockSize: 9937
+NextBlock Pointer: 0x7efff72e96f0
+
+Nextblock size: 225
+
+
+Mem_heap_hi: 0x7efff74bdfdf
+CurrentBlockFreed: 0x7efff744eda0
+CurrentBlockSize: 199137
+NextBlock Pointer: 0x7efff747f780
+
+Nextblock size: 209
+
+
+Mem_heap_hi: 0x7efff74bdfdf
+CurrentBlockFreed: 0x7efff744eda0
+CurrentBlockSize: 199137
+NextBlock Pointer: 0x7efff747f780
+
+Nextblock size: 209
+
+
+Mem_heap_hi: 0x7efff74bdfdf
+CurrentBlockFreed: 0x7efff747f850
+CurrentBlockSize: 80337
+NextBlock Pointer: 0x7efff7493220
+
+Nextblock size: 192
+
+
+Mem_heap_hi: 0x7efff74bdfdf
+CurrentBlockFreed: 0x7efff7443ed0
+CurrentBlockSize: 1857
+NextBlock Pointer: 0x7efff7444610
+
+Nextblock size: 42897
+
+
+Mem_heap_hi: 0x7efff74bdfdf
+CurrentBlockFreed: 0x7efff72eace0
+CurrentBlockSize: 273
+NextBlock Pointer: 0x7efff72eadf0
+
+Nextblock size: 257
+
+
+Mem_heap_hi: 0x7efff74bdfdf
+CurrentBlockFreed: 0x7efff7300660
+CurrentBlockSize: 209
+NextBlock Pointer: 0x7efff7300730
+
+Nextblock size: 225
+
+
+Mem_heap_hi: 0x7efff74bdfdf
+CurrentBlockFreed: 0x7efff747f850
+CurrentBlockSize: 80337
+NextBlock Pointer: 0x7efff7493220
+
+Nextblock size: 192
+
+
+Mem_heap_hi: 0x7efff74bdfdf
+CurrentBlockFreed: 0x7efff747f850
+CurrentBlockSize: 80337
+NextBlock Pointer: 0x7efff7493220
+
+Nextblock size: 192
+
+
+Mem_heap_hi: 0x7efff74bdfdf
+CurrentBlockFreed: 0x7efff7360680
+CurrentBlockSize: 2209
+NextBlock Pointer: 0x7efff7360f20
+
+Nextblock size: 65
+
+
+Mem_heap_hi: 0x7efff74bdfdf
+CurrentBlockFreed: 0x7efff7360680
+CurrentBlockSize: 2209
+NextBlock Pointer: 0x7efff7360f20
+
+Nextblock size: 65
+
+
+Mem_heap_hi: 0x7efff74bdfdf
+CurrentBlockFreed: 0x7efff7360680
+CurrentBlockSize: 2209
+NextBlock Pointer: 0x7efff7360f20
+
+Nextblock size: 65
+
+
+Mem_heap_hi: 0x7efff74f806f
+CurrentBlockFreed: 0x7efff74bdfe0
+CurrentBlockSize: 237713
+NextBlock Pointer: 0x7efff74f8070
+was out of bounds
+
+Mem_heap_hi: 0x7efff74f806f
+CurrentBlockFreed: 0x7efff73008e0
+CurrentBlockSize: 241
+NextBlock Pointer: 0x7efff73009d0
+
+Nextblock size: 144
+
+
+Mem_heap_hi: 0x7efff74f806f
+CurrentBlockFreed: 0x7efff7493b30
+CurrentBlockSize: 1809
+NextBlock Pointer: 0x7efff7494240
+
+Nextblock size: 256
+
+
+Mem_heap_hi: 0x7efff74f806f
+CurrentBlockFreed: 0x7efff74bdfe0
+CurrentBlockSize: 237713
+NextBlock Pointer: 0x7efff74f8070
+was out of bounds
+
+Mem_heap_hi: 0x7efff74f806f
+CurrentBlockFreed: 0x7efff7304030
+CurrentBlockSize: 3089
+NextBlock Pointer: 0x7efff7304c40
+
+Nextblock size: 4849
+
+
+Mem_heap_hi: 0x7efff74f806f
+CurrentBlockFreed: 0x7efff74bdfe0
+CurrentBlockSize: 237713
+NextBlock Pointer: 0x7efff74f8070
+was out of bounds
+
+Mem_heap_hi: 0x7efff74f806f
+CurrentBlockFreed: 0x7efff730ee80
+CurrentBlockSize: 188657
+NextBlock Pointer: 0x7efff733cf70
+
+Nextblock size: 145169
+
+
+Mem_heap_hi: 0x7efff74f806f
+CurrentBlockFreed: 0x7efff730ee80
+CurrentBlockSize: 188657
+NextBlock Pointer: 0x7efff733cf70
+
+Nextblock size: 145169
+
+
+Mem_heap_hi: 0x7efff74f806f
+CurrentBlockFreed: 0x7efff7391100
+CurrentBlockSize: 155969
+NextBlock Pointer: 0x7efff73b7240
+
+Nextblock size: 113
+
+
+Mem_heap_hi: 0x7efff74f806f
+CurrentBlockFreed: 0x7efff73066d0
+CurrentBlockSize: 6785
+NextBlock Pointer: 0x7efff7308150
+
+Nextblock size: 113
+
+
+Mem_heap_hi: 0x7efff74f806f
+CurrentBlockFreed: 0x7efff7391100
+CurrentBlockSize: 155969
+NextBlock Pointer: 0x7efff73b7240
+
+Nextblock size: 113
+
+
+Mem_heap_hi: 0x7efff74f806f
+CurrentBlockFreed: 0x7efff72fd750
+CurrentBlockSize: 11441
+NextBlock Pointer: 0x7efff7300400
+
+Nextblock size: 609
+
+
+Mem_heap_hi: 0x7efff74f806f
+CurrentBlockFreed: 0x7efff72fd630
+CurrentBlockSize: 289
+NextBlock Pointer: 0x7efff72fd750
+
+Nextblock size: 11441
+
+
+Mem_heap_hi: 0x7efff74f806f
+CurrentBlockFreed: 0x7efff73b8270
+CurrentBlockSize: 97
+NextBlock Pointer: 0x7efff73b82d0
+
+Nextblock size: 209
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74f8070
+CurrentBlockSize: 250385
+NextBlock Pointer: 0x7efff7535280
+was out of bounds
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74f8070
+CurrentBlockSize: 250385
+NextBlock Pointer: 0x7efff7535280
+was out of bounds
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74f8070
+CurrentBlockSize: 250385
+NextBlock Pointer: 0x7efff7535280
+was out of bounds
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff744eda0
+CurrentBlockSize: 199137
+NextBlock Pointer: 0x7efff747f780
+
+Nextblock size: 209
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff741bd30
+CurrentBlockSize: 113857
+NextBlock Pointer: 0x7efff74379f0
+
+Nextblock size: 14353
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff72fd470
+CurrentBlockSize: 449
+NextBlock Pointer: 0x7efff72fd630
+
+Nextblock size: 288
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff72fd470
+CurrentBlockSize: 449
+NextBlock Pointer: 0x7efff72fd630
+
+Nextblock size: 288
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff72fd470
+CurrentBlockSize: 449
+NextBlock Pointer: 0x7efff72fd630
+
+Nextblock size: 288
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff7304c40
+CurrentBlockSize: 4849
+NextBlock Pointer: 0x7efff7305f30
+
+Nextblock size: 161
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff741bd30
+CurrentBlockSize: 113857
+NextBlock Pointer: 0x7efff74379f0
+
+Nextblock size: 14353
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74f8070
+CurrentBlockSize: 250385
+NextBlock Pointer: 0x7efff7535280
+was out of bounds
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff73db140
+CurrentBlockSize: 237457
+NextBlock Pointer: 0x7efff74150d0
+
+Nextblock size: 273
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74bdfe0
+CurrentBlockSize: 237713
+NextBlock Pointer: 0x7efff74f8070
+
+Nextblock size: 250384
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff7443d30
+CurrentBlockSize: 417
+NextBlock Pointer: 0x7efff7443ed0
+
+Nextblock size: 1856
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff7385d00
+CurrentBlockSize: 46081
+NextBlock Pointer: 0x7efff7391100
+
+Nextblock size: 155969
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff7385d00
+CurrentBlockSize: 46081
+NextBlock Pointer: 0x7efff7391100
+
+Nextblock size: 155969
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74151e0
+CurrentBlockSize: 6129
+NextBlock Pointer: 0x7efff74169d0
+
+Nextblock size: 21345
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff7300730
+CurrentBlockSize: 225
+NextBlock Pointer: 0x7efff7300810
+
+Nextblock size: 209
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74151e0
+CurrentBlockSize: 6129
+NextBlock Pointer: 0x7efff74169d0
+
+Nextblock size: 21345
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74151e0
+CurrentBlockSize: 6129
+NextBlock Pointer: 0x7efff74169d0
+
+Nextblock size: 21345
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74151e0
+CurrentBlockSize: 6129
+NextBlock Pointer: 0x7efff74169d0
+
+Nextblock size: 21345
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff73b83a0
+CurrentBlockSize: 9281
+NextBlock Pointer: 0x7efff73ba7e0
+
+Nextblock size: 17169
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff73b83a0
+CurrentBlockSize: 9281
+NextBlock Pointer: 0x7efff73ba7e0
+
+Nextblock size: 17169
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff72fab90
+CurrentBlockSize: 10305
+NextBlock Pointer: 0x7efff72fd3d0
+
+Nextblock size: 160
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff72e9a10
+CurrentBlockSize: 4817
+NextBlock Pointer: 0x7efff72eace0
+
+Nextblock size: 272
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff72fd750
+CurrentBlockSize: 11441
+NextBlock Pointer: 0x7efff7300400
+
+Nextblock size: 609
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff73db040
+CurrentBlockSize: 257
+NextBlock Pointer: 0x7efff73db140
+
+Nextblock size: 237456
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff73db040
+CurrentBlockSize: 257
+NextBlock Pointer: 0x7efff73db140
+
+Nextblock size: 237456
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff72e9990
+CurrentBlockSize: 129
+NextBlock Pointer: 0x7efff72e9a10
+
+Nextblock size: 4816
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74bdfe0
+CurrentBlockSize: 237713
+NextBlock Pointer: 0x7efff74f8070
+
+Nextblock size: 250384
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff7360f20
+CurrentBlockSize: 65
+NextBlock Pointer: 0x7efff7360f60
+
+Nextblock size: 273
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74bdfe0
+CurrentBlockSize: 237713
+NextBlock Pointer: 0x7efff74f8070
+
+Nextblock size: 250384
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74a05f0
+CurrentBlockSize: 121329
+NextBlock Pointer: 0x7efff74bdfe0
+
+Nextblock size: 237712
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff72fd750
+CurrentBlockSize: 11441
+NextBlock Pointer: 0x7efff7300400
+
+Nextblock size: 609
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff7306500
+CurrentBlockSize: 241
+NextBlock Pointer: 0x7efff73065f0
+
+Nextblock size: 224
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff7306500
+CurrentBlockSize: 241
+NextBlock Pointer: 0x7efff73065f0
+
+Nextblock size: 224
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff7443d30
+CurrentBlockSize: 417
+NextBlock Pointer: 0x7efff7443ed0
+
+Nextblock size: 1856
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff73db140
+CurrentBlockSize: 237457
+NextBlock Pointer: 0x7efff74150d0
+
+Nextblock size: 273
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74150d0
+CurrentBlockSize: 273
+NextBlock Pointer: 0x7efff74151e0
+
+Nextblock size: 6129
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff73db140
+CurrentBlockSize: 237457
+NextBlock Pointer: 0x7efff74150d0
+
+Nextblock size: 272
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74932e0
+CurrentBlockSize: 2129
+NextBlock Pointer: 0x7efff7493b30
+
+Nextblock size: 1808
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff72fd750
+CurrentBlockSize: 11441
+NextBlock Pointer: 0x7efff7300400
+
+Nextblock size: 609
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff72fd750
+CurrentBlockSize: 11441
+NextBlock Pointer: 0x7efff7300400
+
+Nextblock size: 609
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff72eaef0
+CurrentBlockSize: 257
+NextBlock Pointer: 0x7efff72eaff0
+
+Nextblock size: 60081
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff72eaef0
+CurrentBlockSize: 257
+NextBlock Pointer: 0x7efff72eaff0
+
+Nextblock size: 60081
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff73c8220
+CurrentBlockSize: 77345
+NextBlock Pointer: 0x7efff73db040
+
+Nextblock size: 256
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff73c8220
+CurrentBlockSize: 77345
+NextBlock Pointer: 0x7efff73db040
+
+Nextblock size: 256
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74a05f0
+CurrentBlockSize: 121329
+NextBlock Pointer: 0x7efff74bdfe0
+
+Nextblock size: 237713
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74a05f0
+CurrentBlockSize: 121329
+NextBlock Pointer: 0x7efff74bdfe0
+
+Nextblock size: 237713
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74a05f0
+CurrentBlockSize: 121329
+NextBlock Pointer: 0x7efff74bdfe0
+
+Nextblock size: 237713
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74379f0
+CurrentBlockSize: 14353
+NextBlock Pointer: 0x7efff743b200
+
+Nextblock size: 224
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74379f0
+CurrentBlockSize: 14353
+NextBlock Pointer: 0x7efff743b200
+
+Nextblock size: 224
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74379f0
+CurrentBlockSize: 14353
+NextBlock Pointer: 0x7efff743b200
+
+Nextblock size: 224
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74a05f0
+CurrentBlockSize: 121329
+NextBlock Pointer: 0x7efff74bdfe0
+
+Nextblock size: 237713
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74a05f0
+CurrentBlockSize: 121329
+NextBlock Pointer: 0x7efff74bdfe0
+
+Nextblock size: 237713
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74bdfe0
+CurrentBlockSize: 237713
+NextBlock Pointer: 0x7efff74f8070
+
+Nextblock size: 250384
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74bdfe0
+CurrentBlockSize: 237713
+NextBlock Pointer: 0x7efff74f8070
+
+Nextblock size: 250384
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff73610e0
+CurrentBlockSize: 150561
+NextBlock Pointer: 0x7efff7385d00
+
+Nextblock size: 46081
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff73610e0
+CurrentBlockSize: 150561
+NextBlock Pointer: 0x7efff7385d00
+
+Nextblock size: 46081
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff73610e0
+CurrentBlockSize: 150561
+NextBlock Pointer: 0x7efff7385d00
+
+Nextblock size: 46081
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff73610e0
+CurrentBlockSize: 150561
+NextBlock Pointer: 0x7efff7385d00
+
+Nextblock size: 46081
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff73610e0
+CurrentBlockSize: 150561
+NextBlock Pointer: 0x7efff7385d00
+
+Nextblock size: 46081
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff73beaf0
+CurrentBlockSize: 36225
+NextBlock Pointer: 0x7efff73c7870
+
+Nextblock size: 2481
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff7304030
+CurrentBlockSize: 3089
+NextBlock Pointer: 0x7efff7304c40
+
+Nextblock size: 4848
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff747f780
+CurrentBlockSize: 209
+NextBlock Pointer: 0x7efff747f850
+
+Nextblock size: 80337
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff73b72b0
+CurrentBlockSize: 241
+NextBlock Pointer: 0x7efff73b73a0
+
+Nextblock size: 81
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff73beaf0
+CurrentBlockSize: 36225
+NextBlock Pointer: 0x7efff73c7870
+
+Nextblock size: 2481
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7308150
+CurrentBlockSize: 113
+NextBlock Pointer: 0x7efff73081c0
+
+Nextblock size: 27841
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73beaf0
+CurrentBlockSize: 36225
+NextBlock Pointer: 0x7efff73c7870
+
+Nextblock size: 2481
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73066d0
+CurrentBlockSize: 6785
+NextBlock Pointer: 0x7efff7308150
+
+Nextblock size: 113
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73066d0
+CurrentBlockSize: 6785
+NextBlock Pointer: 0x7efff7308150
+
+Nextblock size: 113
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73066d0
+CurrentBlockSize: 6785
+NextBlock Pointer: 0x7efff7308150
+
+Nextblock size: 113
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73b73f0
+CurrentBlockSize: 145
+NextBlock Pointer: 0x7efff73b7480
+
+Nextblock size: 3569
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73066d0
+CurrentBlockSize: 6785
+NextBlock Pointer: 0x7efff7308150
+
+Nextblock size: 113
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73066d0
+CurrentBlockSize: 6785
+NextBlock Pointer: 0x7efff7308150
+
+Nextblock size: 113
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7360680
+CurrentBlockSize: 2209
+NextBlock Pointer: 0x7efff7360f20
+
+Nextblock size: 64
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7360680
+CurrentBlockSize: 2209
+NextBlock Pointer: 0x7efff7360f20
+
+Nextblock size: 64
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff72e9910
+CurrentBlockSize: 129
+NextBlock Pointer: 0x7efff72e9990
+
+Nextblock size: 128
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7360680
+CurrentBlockSize: 2209
+NextBlock Pointer: 0x7efff7360f20
+
+Nextblock size: 64
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7360f60
+CurrentBlockSize: 273
+NextBlock Pointer: 0x7efff7361070
+
+Nextblock size: 112
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff72eaff0
+CurrentBlockSize: 60081
+NextBlock Pointer: 0x7efff72f9aa0
+
+Nextblock size: 145
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff72eaff0
+CurrentBlockSize: 60081
+NextBlock Pointer: 0x7efff72f9aa0
+
+Nextblock size: 145
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7300730
+CurrentBlockSize: 225
+NextBlock Pointer: 0x7efff7300810
+
+Nextblock size: 209
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff72eaff0
+CurrentBlockSize: 60081
+NextBlock Pointer: 0x7efff72f9aa0
+
+Nextblock size: 145
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff72eaff0
+CurrentBlockSize: 60081
+NextBlock Pointer: 0x7efff72f9aa0
+
+Nextblock size: 145
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff72eaff0
+CurrentBlockSize: 60081
+NextBlock Pointer: 0x7efff72f9aa0
+
+Nextblock size: 145
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff74bdfe0
+CurrentBlockSize: 237713
+NextBlock Pointer: 0x7efff74f8070
+
+Nextblock size: 250384
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff743b2e0
+CurrentBlockSize: 35169
+NextBlock Pointer: 0x7efff7443c40
+
+Nextblock size: 240
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff74bdfe0
+CurrentBlockSize: 237713
+NextBlock Pointer: 0x7efff74f8070
+
+Nextblock size: 250384
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff74bdfe0
+CurrentBlockSize: 237713
+NextBlock Pointer: 0x7efff74f8070
+
+Nextblock size: 250384
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff74151e0
+CurrentBlockSize: 6129
+NextBlock Pointer: 0x7efff74169d0
+
+Nextblock size: 21345
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff74bdfe0
+CurrentBlockSize: 237713
+NextBlock Pointer: 0x7efff74f8070
+
+Nextblock size: 250384
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff74bdfe0
+CurrentBlockSize: 237713
+NextBlock Pointer: 0x7efff74f8070
+
+Nextblock size: 250384
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7300400
+CurrentBlockSize: 609
+NextBlock Pointer: 0x7efff7300660
+
+Nextblock size: 208
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7300400
+CurrentBlockSize: 609
+NextBlock Pointer: 0x7efff7300660
+
+Nextblock size: 208
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7300400
+CurrentBlockSize: 609
+NextBlock Pointer: 0x7efff7300660
+
+Nextblock size: 208
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7444610
+CurrentBlockSize: 42897
+NextBlock Pointer: 0x7efff744eda0
+
+Nextblock size: 199136
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff730ee80
+CurrentBlockSize: 188657
+NextBlock Pointer: 0x7efff733cf70
+
+Nextblock size: 145169
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff730ee80
+CurrentBlockSize: 188657
+NextBlock Pointer: 0x7efff733cf70
+
+Nextblock size: 145169
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73beaf0
+CurrentBlockSize: 36225
+NextBlock Pointer: 0x7efff73c7870
+
+Nextblock size: 2481
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73b73a0
+CurrentBlockSize: 81
+NextBlock Pointer: 0x7efff73b73f0
+
+Nextblock size: 144
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff730ee80
+CurrentBlockSize: 188657
+NextBlock Pointer: 0x7efff733cf70
+
+Nextblock size: 145169
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff74169d0
+CurrentBlockSize: 21345
+NextBlock Pointer: 0x7efff741bd30
+
+Nextblock size: 113856
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73b7240
+CurrentBlockSize: 113
+NextBlock Pointer: 0x7efff73b72b0
+
+Nextblock size: 240
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff72f9c80
+CurrentBlockSize: 209
+NextBlock Pointer: 0x7efff72f9d50
+
+Nextblock size: 3648
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff72f9c80
+CurrentBlockSize: 209
+NextBlock Pointer: 0x7efff72f9d50
+
+Nextblock size: 3648
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7305f30
+CurrentBlockSize: 161
+NextBlock Pointer: 0x7efff7305fd0
+
+Nextblock size: 1137
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7300810
+CurrentBlockSize: 209
+NextBlock Pointer: 0x7efff73008e0
+
+Nextblock size: 240
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7300810
+CurrentBlockSize: 209
+NextBlock Pointer: 0x7efff73008e0
+
+Nextblock size: 240
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff74169d0
+CurrentBlockSize: 21345
+NextBlock Pointer: 0x7efff741bd30
+
+Nextblock size: 113856
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff730ee80
+CurrentBlockSize: 188657
+NextBlock Pointer: 0x7efff733cf70
+
+Nextblock size: 145169
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff730ee80
+CurrentBlockSize: 188657
+NextBlock Pointer: 0x7efff733cf70
+
+Nextblock size: 145169
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7300a60
+CurrentBlockSize: 13777
+NextBlock Pointer: 0x7efff7304030
+
+Nextblock size: 3088
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7300a60
+CurrentBlockSize: 13777
+NextBlock Pointer: 0x7efff7304030
+
+Nextblock size: 3088
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7300a60
+CurrentBlockSize: 13777
+NextBlock Pointer: 0x7efff7304030
+
+Nextblock size: 3088
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7300a60
+CurrentBlockSize: 13777
+NextBlock Pointer: 0x7efff7304030
+
+Nextblock size: 3088
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7300a60
+CurrentBlockSize: 13777
+NextBlock Pointer: 0x7efff7304030
+
+Nextblock size: 3088
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7300a60
+CurrentBlockSize: 13777
+NextBlock Pointer: 0x7efff7304030
+
+Nextblock size: 3088
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff72f9b30
+CurrentBlockSize: 193
+NextBlock Pointer: 0x7efff72f9bf0
+
+Nextblock size: 145
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff72f9bf0
+CurrentBlockSize: 145
+NextBlock Pointer: 0x7efff72f9c80
+
+Nextblock size: 208
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7300a60
+CurrentBlockSize: 13777
+NextBlock Pointer: 0x7efff7304030
+
+Nextblock size: 3088
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7300a60
+CurrentBlockSize: 13777
+NextBlock Pointer: 0x7efff7304030
+
+Nextblock size: 3088
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff72f9aa0
+CurrentBlockSize: 145
+NextBlock Pointer: 0x7efff72f9b30
+
+Nextblock size: 192
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73610e0
+CurrentBlockSize: 150561
+NextBlock Pointer: 0x7efff7385d00
+
+Nextblock size: 46081
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73610e0
+CurrentBlockSize: 150561
+NextBlock Pointer: 0x7efff7385d00
+
+Nextblock size: 46081
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73db140
+CurrentBlockSize: 237457
+NextBlock Pointer: 0x7efff74150d0
+
+Nextblock size: 272
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff747f850
+CurrentBlockSize: 80337
+NextBlock Pointer: 0x7efff7493220
+
+Nextblock size: 192
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff747f850
+CurrentBlockSize: 80337
+NextBlock Pointer: 0x7efff7493220
+
+Nextblock size: 192
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff747f850
+CurrentBlockSize: 80337
+NextBlock Pointer: 0x7efff7493220
+
+Nextblock size: 192
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff747f850
+CurrentBlockSize: 80337
+NextBlock Pointer: 0x7efff7493220
+
+Nextblock size: 192
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7535280
+CurrentBlockSize: 250577
+NextBlock Pointer: 0x7efff7572550
+was out of bounds
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff74151e0
+CurrentBlockSize: 6129
+NextBlock Pointer: 0x7efff74169d0
+
+Nextblock size: 21344
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73b7480
+CurrentBlockSize: 3569
+NextBlock Pointer: 0x7efff73b8270
+
+Nextblock size: 96
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73beaf0
+CurrentBlockSize: 36225
+NextBlock Pointer: 0x7efff73c7870
+
+Nextblock size: 2481
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73beaf0
+CurrentBlockSize: 36225
+NextBlock Pointer: 0x7efff73c7870
+
+Nextblock size: 2481
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73beaf0
+CurrentBlockSize: 36225
+NextBlock Pointer: 0x7efff73c7870
+
+Nextblock size: 2481
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff733cf70
+CurrentBlockSize: 145169
+NextBlock Pointer: 0x7efff7360680
+
+Nextblock size: 2208
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73c7870
+CurrentBlockSize: 2481
+NextBlock Pointer: 0x7efff73c8220
+
+Nextblock size: 77344
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7305fd0
+CurrentBlockSize: 1137
+NextBlock Pointer: 0x7efff7306440
+
+Nextblock size: 193
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7308150
+CurrentBlockSize: 113
+NextBlock Pointer: 0x7efff73081c0
+
+Nextblock size: 27841
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7305fd0
+CurrentBlockSize: 1137
+NextBlock Pointer: 0x7efff7306440
+
+Nextblock size: 193
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff72fd750
+CurrentBlockSize: 11441
+NextBlock Pointer: 0x7efff7300400
+
+Nextblock size: 608
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7385d00
+CurrentBlockSize: 46081
+NextBlock Pointer: 0x7efff7391100
+
+Nextblock size: 155969
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73081c0
+CurrentBlockSize: 27841
+NextBlock Pointer: 0x7efff730ee80
+
+Nextblock size: 188656
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73b82d0
+CurrentBlockSize: 209
+NextBlock Pointer: 0x7efff73b83a0
+
+Nextblock size: 9280
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff72e96f0
+CurrentBlockSize: 225
+NextBlock Pointer: 0x7efff72e97d0
+
+Nextblock size: 48
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7391100
+CurrentBlockSize: 155969
+NextBlock Pointer: 0x7efff73b7240
+
+Nextblock size: 112
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff72eadf0
+CurrentBlockSize: 257
+NextBlock Pointer: 0x7efff72eaef0
+
+Nextblock size: 256
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff72eadf0
+CurrentBlockSize: 257
+NextBlock Pointer: 0x7efff72eaef0
+
+Nextblock size: 256
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73ba7e0
+CurrentBlockSize: 17169
+NextBlock Pointer: 0x7efff73beaf0
+
+Nextblock size: 36224
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7306440
+CurrentBlockSize: 193
+NextBlock Pointer: 0x7efff7306500
+
+Nextblock size: 240
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7306440
+CurrentBlockSize: 193
+NextBlock Pointer: 0x7efff7306500
+
+Nextblock size: 240
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73ba7e0
+CurrentBlockSize: 17169
+NextBlock Pointer: 0x7efff73beaf0
+
+Nextblock size: 36224
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73ba7e0
+CurrentBlockSize: 17169
+NextBlock Pointer: 0x7efff73beaf0
+
+Nextblock size: 36224
+
+
+Mem_heap_hi: 0x7efff72e9a0f
+CurrentBlockFreed: 0x7efff72e97d0
+CurrentBlockSize: 49
+NextBlock Pointer: 0x7efff72e9800
+
+Nextblock size: 177
+
+
+Mem_heap_hi: 0x7efff72eacdf
+CurrentBlockFreed: 0x7efff72e9800
+CurrentBlockSize: 177
+NextBlock Pointer: 0x7efff72e98b0
+
+Nextblock size: 97
+
+
+Mem_heap_hi: 0x7efff72eadef
+CurrentBlockFreed: 0x7efff72e96f0
+CurrentBlockSize: 225
+NextBlock Pointer: 0x7efff72e97d0
+
+Nextblock size: 48
+
+
+Mem_heap_hi: 0x7efff72eaeef
+CurrentBlockFreed: 0x7efff72e9800
+CurrentBlockSize: 177
+NextBlock Pointer: 0x7efff72e98b0
+
+Nextblock size: 97
+
+
+Mem_heap_hi: 0x7efff72f9a9f
+CurrentBlockFreed: 0x7efff72e98b0
+CurrentBlockSize: 97
+NextBlock Pointer: 0x7efff72e9910
+
+Nextblock size: 129
+
+
+Mem_heap_hi: 0x7efff72f9bef
+CurrentBlockFreed: 0x7efff72e97d0
+CurrentBlockSize: 49
+NextBlock Pointer: 0x7efff72e9800
+
+Nextblock size: 177
+
+
+Mem_heap_hi: 0x7efff72f9c7f
+CurrentBlockFreed: 0x7efff72e9910
+CurrentBlockSize: 129
+NextBlock Pointer: 0x7efff72e9990
+
+Nextblock size: 129
+
+
+Mem_heap_hi: 0x7efff72f9d4f
+CurrentBlockFreed: 0x7efff72f9b30
+CurrentBlockSize: 193
+NextBlock Pointer: 0x7efff72f9bf0
+
+Nextblock size: 145
+
+
+Mem_heap_hi: 0x7efff72fd3cf
+CurrentBlockFreed: 0x7efff72e9910
+CurrentBlockSize: 129
+NextBlock Pointer: 0x7efff72e9990
+
+Nextblock size: 129
+
+
+Mem_heap_hi: 0x7efff72fd46f
+CurrentBlockFreed: 0x7efff72e9910
+CurrentBlockSize: 129
+NextBlock Pointer: 0x7efff72e9990
+
+Nextblock size: 129
+
+
+Mem_heap_hi: 0x7efff730065f
+CurrentBlockFreed: 0x7efff72f9bf0
+CurrentBlockSize: 145
+NextBlock Pointer: 0x7efff72f9c80
+
+Nextblock size: 209
+
+
+Mem_heap_hi: 0x7efff730072f
+CurrentBlockFreed: 0x7efff7300660
+CurrentBlockSize: 209
+NextBlock Pointer: 0x7efff7300730
+was out of bounds
+
+Mem_heap_hi: 0x7efff730402f
+CurrentBlockFreed: 0x7efff72eace0
+CurrentBlockSize: 273
+NextBlock Pointer: 0x7efff72eadf0
+
+Nextblock size: 257
+
+
+Mem_heap_hi: 0x7efff730402f
+CurrentBlockFreed: 0x7efff72f9bf0
+CurrentBlockSize: 145
+NextBlock Pointer: 0x7efff72f9c80
+
+Nextblock size: 209
+
+
+Mem_heap_hi: 0x7efff730402f
+CurrentBlockFreed: 0x7efff72eaef0
+CurrentBlockSize: 257
+NextBlock Pointer: 0x7efff72eaff0
+
+Nextblock size: 60081
+
+
+Mem_heap_hi: 0x7efff7305f2f
+CurrentBlockFreed: 0x7efff7300400
+CurrentBlockSize: 609
+NextBlock Pointer: 0x7efff7300660
+
+Nextblock size: 209
+
+
+Mem_heap_hi: 0x7efff7305f2f
+CurrentBlockFreed: 0x7efff72eace0
+CurrentBlockSize: 273
+NextBlock Pointer: 0x7efff72eadf0
+
+Nextblock size: 257
+
+
+Mem_heap_hi: 0x7efff73065ef
+CurrentBlockFreed: 0x7efff7306500
+CurrentBlockSize: 241
+NextBlock Pointer: 0x7efff73065f0
+was out of bounds
+
+Mem_heap_hi: 0x7efff730ee7f
+CurrentBlockFreed: 0x7efff72f9c80
+CurrentBlockSize: 209
+NextBlock Pointer: 0x7efff72f9d50
+
+Nextblock size: 3649
+
+
+Mem_heap_hi: 0x7efff730ee7f
+CurrentBlockFreed: 0x7efff73081c0
+CurrentBlockSize: 27841
+NextBlock Pointer: 0x7efff730ee80
+was out of bounds
+
+Mem_heap_hi: 0x7efff730ee7f
+CurrentBlockFreed: 0x7efff72f9bf0
+CurrentBlockSize: 145
+NextBlock Pointer: 0x7efff72f9c80
+
+Nextblock size: 209
+
+
+Mem_heap_hi: 0x7efff733cf6f
+CurrentBlockFreed: 0x7efff7300660
+CurrentBlockSize: 209
+NextBlock Pointer: 0x7efff7300730
+
+Nextblock size: 225
+
+
+Mem_heap_hi: 0x7efff733cf6f
+CurrentBlockFreed: 0x7efff730ee80
+CurrentBlockSize: 188657
+NextBlock Pointer: 0x7efff733cf70
+was out of bounds
+
+Mem_heap_hi: 0x7efff733cf6f
+CurrentBlockFreed: 0x7efff7308150
+CurrentBlockSize: 113
+NextBlock Pointer: 0x7efff73081c0
+
+Nextblock size: 27841
+
+
+Mem_heap_hi: 0x7efff733cf6f
+CurrentBlockFreed: 0x7efff72e96f0
+CurrentBlockSize: 225
+NextBlock Pointer: 0x7efff72e97d0
+
+Nextblock size: 48
+
+
+Mem_heap_hi: 0x7efff733cf6f
+CurrentBlockFreed: 0x7efff730ee80
+CurrentBlockSize: 188657
+NextBlock Pointer: 0x7efff733cf70
+was out of bounds
+
+Mem_heap_hi: 0x7efff733cf6f
+CurrentBlockFreed: 0x7efff730ee80
+CurrentBlockSize: 188657
+NextBlock Pointer: 0x7efff733cf70
+was out of bounds
+
+Mem_heap_hi: 0x7efff736067f
+CurrentBlockFreed: 0x7efff72fd750
+CurrentBlockSize: 11441
+NextBlock Pointer: 0x7efff7300400
+
+Nextblock size: 609
+
+
+Mem_heap_hi: 0x7efff736067f
+CurrentBlockFreed: 0x7efff72eace0
+CurrentBlockSize: 273
+NextBlock Pointer: 0x7efff72eadf0
+
+Nextblock size: 257
+
+
+Mem_heap_hi: 0x7efff7360f1f
+CurrentBlockFreed: 0x7efff7306440
+CurrentBlockSize: 193
+NextBlock Pointer: 0x7efff7306500
+
+Nextblock size: 241
+
+
+Mem_heap_hi: 0x7efff73610df
+CurrentBlockFreed: 0x7efff7360f20
+CurrentBlockSize: 65
+NextBlock Pointer: 0x7efff7360f60
+
+Nextblock size: 273
+
+
+Mem_heap_hi: 0x7efff7385cff
+CurrentBlockFreed: 0x7efff7306440
+CurrentBlockSize: 193
+NextBlock Pointer: 0x7efff7306500
+
+Nextblock size: 241
+
+
+Mem_heap_hi: 0x7efff73b723f
+CurrentBlockFreed: 0x7efff7385d00
+CurrentBlockSize: 46081
+NextBlock Pointer: 0x7efff7391100
+
+Nextblock size: 155969
+
+
+Mem_heap_hi: 0x7efff73b73ef
+CurrentBlockFreed: 0x7efff7360f20
+CurrentBlockSize: 65
+NextBlock Pointer: 0x7efff7360f60
+
+Nextblock size: 273
+
+
+Mem_heap_hi: 0x7efff73b73ef
+CurrentBlockFreed: 0x7efff7305f30
+CurrentBlockSize: 161
+NextBlock Pointer: 0x7efff7305fd0
+
+Nextblock size: 1137
+
+
+Mem_heap_hi: 0x7efff73b747f
+CurrentBlockFreed: 0x7efff73b73f0
+CurrentBlockSize: 145
+NextBlock Pointer: 0x7efff73b7480
+was out of bounds
+
+Mem_heap_hi: 0x7efff73b826f
+CurrentBlockFreed: 0x7efff73b73f0
+CurrentBlockSize: 145
+NextBlock Pointer: 0x7efff73b7480
+
+Nextblock size: 3569
+
+
+Mem_heap_hi: 0x7efff73b82cf
+CurrentBlockFreed: 0x7efff7360f20
+CurrentBlockSize: 65
+NextBlock Pointer: 0x7efff7360f60
+
+Nextblock size: 273
+
+
+Mem_heap_hi: 0x7efff73b839f
+CurrentBlockFreed: 0x7efff73b8270
+CurrentBlockSize: 97
+NextBlock Pointer: 0x7efff73b82d0
+
+Nextblock size: 209
+
+
+Mem_heap_hi: 0x7efff73ba7df
+CurrentBlockFreed: 0x7efff7300660
+CurrentBlockSize: 209
+NextBlock Pointer: 0x7efff7300730
+
+Nextblock size: 225
+
+
+Mem_heap_hi: 0x7efff73beaef
+CurrentBlockFreed: 0x7efff7300660
+CurrentBlockSize: 209
+NextBlock Pointer: 0x7efff7300730
+
+Nextblock size: 225
+
+
+Mem_heap_hi: 0x7efff73beaef
+CurrentBlockFreed: 0x7efff72e98b0
+CurrentBlockSize: 97
+NextBlock Pointer: 0x7efff72e9910
+
+Nextblock size: 129
+
+
+Mem_heap_hi: 0x7efff73beaef
+CurrentBlockFreed: 0x7efff73610e0
+CurrentBlockSize: 150561
+NextBlock Pointer: 0x7efff7385d00
+
+Nextblock size: 46081
+
+
+Mem_heap_hi: 0x7efff73beaef
+CurrentBlockFreed: 0x7efff7360f20
+CurrentBlockSize: 65
+NextBlock Pointer: 0x7efff7360f60
+
+Nextblock size: 273
+
+
+Mem_heap_hi: 0x7efff73c786f
+CurrentBlockFreed: 0x7efff73beaf0
+CurrentBlockSize: 36225
+NextBlock Pointer: 0x7efff73c7870
+was out of bounds
+
+Mem_heap_hi: 0x7efff73c786f
+CurrentBlockFreed: 0x7efff73066d0
+CurrentBlockSize: 6785
+NextBlock Pointer: 0x7efff7308150
+
+Nextblock size: 113
+
+
+Mem_heap_hi: 0x7efff73c786f
+CurrentBlockFreed: 0x7efff72fd630
+CurrentBlockSize: 289
+NextBlock Pointer: 0x7efff72fd750
+
+Nextblock size: 11441
+
+
+Mem_heap_hi: 0x7efff73c786f
+CurrentBlockFreed: 0x7efff72f9bf0
+CurrentBlockSize: 145
+NextBlock Pointer: 0x7efff72f9c80
+
+Nextblock size: 209
+
+
+Mem_heap_hi: 0x7efff73c786f
+CurrentBlockFreed: 0x7efff72eaef0
+CurrentBlockSize: 257
+NextBlock Pointer: 0x7efff72eaff0
+
+Nextblock size: 60081
+
+
+Mem_heap_hi: 0x7efff73c821f
+CurrentBlockFreed: 0x7efff72f9bf0
+CurrentBlockSize: 145
+NextBlock Pointer: 0x7efff72f9c80
+
+Nextblock size: 209
+
+
+Mem_heap_hi: 0x7efff73c821f
+CurrentBlockFreed: 0x7efff7306440
+CurrentBlockSize: 193
+NextBlock Pointer: 0x7efff7306500
+
+Nextblock size: 241
+
+
+Mem_heap_hi: 0x7efff73db03f
+CurrentBlockFreed: 0x7efff7360680
+CurrentBlockSize: 2209
+NextBlock Pointer: 0x7efff7360f20
+
+Nextblock size: 64
+
+
+Mem_heap_hi: 0x7efff73db13f
+CurrentBlockFreed: 0x7efff7304c40
+CurrentBlockSize: 4849
+NextBlock Pointer: 0x7efff7305f30
+
+Nextblock size: 161
+
+
+Mem_heap_hi: 0x7efff74150cf
+CurrentBlockFreed: 0x7efff7361070
+CurrentBlockSize: 113
+NextBlock Pointer: 0x7efff73610e0
+
+Nextblock size: 150561
+
+
+Mem_heap_hi: 0x7efff74151df
+CurrentBlockFreed: 0x7efff74150d0
+CurrentBlockSize: 273
+NextBlock Pointer: 0x7efff74151e0
+was out of bounds
+
+Mem_heap_hi: 0x7efff74169cf
+CurrentBlockFreed: 0x7efff7360680
+CurrentBlockSize: 2209
+NextBlock Pointer: 0x7efff7360f20
+
+Nextblock size: 64
+
+
+Mem_heap_hi: 0x7efff74169cf
+CurrentBlockFreed: 0x7efff73081c0
+CurrentBlockSize: 27841
+NextBlock Pointer: 0x7efff730ee80
+
+Nextblock size: 188657
+
+
+Mem_heap_hi: 0x7efff74169cf
+CurrentBlockFreed: 0x7efff72e7020
+CurrentBlockSize: 9937
+NextBlock Pointer: 0x7efff72e96f0
+
+Nextblock size: 225
+
+
+Mem_heap_hi: 0x7efff74169cf
+CurrentBlockFreed: 0x7efff74150d0
+CurrentBlockSize: 273
+NextBlock Pointer: 0x7efff74151e0
+
+Nextblock size: 6129
+
+
+Mem_heap_hi: 0x7efff74169cf
+CurrentBlockFreed: 0x7efff72e7020
+CurrentBlockSize: 9937
+NextBlock Pointer: 0x7efff72e96f0
+
+Nextblock size: 225
+
+
+Mem_heap_hi: 0x7efff74379ef
+CurrentBlockFreed: 0x7efff741bd30
+CurrentBlockSize: 113857
+NextBlock Pointer: 0x7efff74379f0
+was out of bounds
+
+Mem_heap_hi: 0x7efff74379ef
+CurrentBlockFreed: 0x7efff73066d0
+CurrentBlockSize: 6785
+NextBlock Pointer: 0x7efff7308150
+
+Nextblock size: 113
+
+
+Mem_heap_hi: 0x7efff74379ef
+CurrentBlockFreed: 0x7efff741bd30
+CurrentBlockSize: 113857
+NextBlock Pointer: 0x7efff74379f0
+was out of bounds
+
+Mem_heap_hi: 0x7efff743b1ff
+CurrentBlockFreed: 0x7efff72fd630
+CurrentBlockSize: 289
+NextBlock Pointer: 0x7efff72fd750
+
+Nextblock size: 11441
+
+
+Mem_heap_hi: 0x7efff7443c3f
+CurrentBlockFreed: 0x7efff7306500
+CurrentBlockSize: 241
+NextBlock Pointer: 0x7efff73065f0
+
+Nextblock size: 225
+
+
+Mem_heap_hi: 0x7efff7443d2f
+CurrentBlockFreed: 0x7efff7443c40
+CurrentBlockSize: 241
+NextBlock Pointer: 0x7efff7443d30
+was out of bounds
+
+Mem_heap_hi: 0x7efff7443ecf
+CurrentBlockFreed: 0x7efff7443d30
+CurrentBlockSize: 417
+NextBlock Pointer: 0x7efff7443ed0
+was out of bounds
+
+Mem_heap_hi: 0x7efff744ed9f
+CurrentBlockFreed: 0x7efff7444610
+CurrentBlockSize: 42897
+NextBlock Pointer: 0x7efff744eda0
+was out of bounds
+
+Mem_heap_hi: 0x7efff744ed9f
+CurrentBlockFreed: 0x7efff73c8220
+CurrentBlockSize: 77345
+NextBlock Pointer: 0x7efff73db040
+
+Nextblock size: 257
+
+
+Mem_heap_hi: 0x7efff744ed9f
+CurrentBlockFreed: 0x7efff72fd630
+CurrentBlockSize: 289
+NextBlock Pointer: 0x7efff72fd750
+
+Nextblock size: 11441
+
+
+Mem_heap_hi: 0x7efff744ed9f
+CurrentBlockFreed: 0x7efff7444610
+CurrentBlockSize: 42897
+NextBlock Pointer: 0x7efff744eda0
+was out of bounds
+
+Mem_heap_hi: 0x7efff744ed9f
+CurrentBlockFreed: 0x7efff73610e0
+CurrentBlockSize: 150561
+NextBlock Pointer: 0x7efff7385d00
+
+Nextblock size: 46081
+
+
+Mem_heap_hi: 0x7efff744ed9f
+CurrentBlockFreed: 0x7efff74379f0
+CurrentBlockSize: 14353
+NextBlock Pointer: 0x7efff743b200
+
+Nextblock size: 225
+
+
+Mem_heap_hi: 0x7efff744ed9f
+CurrentBlockFreed: 0x7efff7306440
+CurrentBlockSize: 193
+NextBlock Pointer: 0x7efff7306500
+
+Nextblock size: 241
+
+
+Mem_heap_hi: 0x7efff744ed9f
+CurrentBlockFreed: 0x7efff7360f60
+CurrentBlockSize: 273
+NextBlock Pointer: 0x7efff7361070
+
+Nextblock size: 113
+
+
+Mem_heap_hi: 0x7efff744ed9f
+CurrentBlockFreed: 0x7efff74379f0
+CurrentBlockSize: 14353
+NextBlock Pointer: 0x7efff743b200
+
+Nextblock size: 225
+
+
+Mem_heap_hi: 0x7efff744ed9f
+CurrentBlockFreed: 0x7efff7306440
+CurrentBlockSize: 193
+NextBlock Pointer: 0x7efff7306500
+
+Nextblock size: 241
+
+
+Mem_heap_hi: 0x7efff744ed9f
+CurrentBlockFreed: 0x7efff7308150
+CurrentBlockSize: 113
+NextBlock Pointer: 0x7efff73081c0
+
+Nextblock size: 27841
+
+
+Mem_heap_hi: 0x7efff747f77f
+CurrentBlockFreed: 0x7efff7308150
+CurrentBlockSize: 113
+NextBlock Pointer: 0x7efff73081c0
+
+Nextblock size: 27841
+
+
+Mem_heap_hi: 0x7efff747f84f
+CurrentBlockFreed: 0x7efff744eda0
+CurrentBlockSize: 199137
+NextBlock Pointer: 0x7efff747f780
+
+Nextblock size: 209
+
+
+Mem_heap_hi: 0x7efff747f84f
+CurrentBlockFreed: 0x7efff744eda0
+CurrentBlockSize: 199137
+NextBlock Pointer: 0x7efff747f780
+
+Nextblock size: 209
+
+
+Mem_heap_hi: 0x7efff747f84f
+CurrentBlockFreed: 0x7efff73065f0
+CurrentBlockSize: 225
+NextBlock Pointer: 0x7efff73066d0
+
+Nextblock size: 6785
+
+
+Mem_heap_hi: 0x7efff747f84f
+CurrentBlockFreed: 0x7efff72fab90
+CurrentBlockSize: 10305
+NextBlock Pointer: 0x7efff72fd3d0
+
+Nextblock size: 161
+
+
+Mem_heap_hi: 0x7efff747f84f
+CurrentBlockFreed: 0x7efff72fd3d0
+CurrentBlockSize: 161
+NextBlock Pointer: 0x7efff72fd470
+
+Nextblock size: 449
+
+
+Mem_heap_hi: 0x7efff747f84f
+CurrentBlockFreed: 0x7efff72fab90
+CurrentBlockSize: 10305
+NextBlock Pointer: 0x7efff72fd3d0
+
+Nextblock size: 160
+
+
+Mem_heap_hi: 0x7efff747f84f
+CurrentBlockFreed: 0x7efff72fab90
+CurrentBlockSize: 10305
+NextBlock Pointer: 0x7efff72fd3d0
+
+Nextblock size: 160
+
+
+Mem_heap_hi: 0x7efff749321f
+CurrentBlockFreed: 0x7efff72eace0
+CurrentBlockSize: 273
+NextBlock Pointer: 0x7efff72eadf0
+
+Nextblock size: 257
+
+
+Mem_heap_hi: 0x7efff749321f
+CurrentBlockFreed: 0x7efff72fab90
+CurrentBlockSize: 10305
+NextBlock Pointer: 0x7efff72fd3d0
+
+Nextblock size: 160
+
+
+Mem_heap_hi: 0x7efff749321f
+CurrentBlockFreed: 0x7efff73db140
+CurrentBlockSize: 237457
+NextBlock Pointer: 0x7efff74150d0
+
+Nextblock size: 273
+
+
+Mem_heap_hi: 0x7efff749321f
+CurrentBlockFreed: 0x7efff7443d30
+CurrentBlockSize: 417
+NextBlock Pointer: 0x7efff7443ed0
+
+Nextblock size: 1857
+
+
+Mem_heap_hi: 0x7efff749321f
+CurrentBlockFreed: 0x7efff7361070
+CurrentBlockSize: 113
+NextBlock Pointer: 0x7efff73610e0
+
+Nextblock size: 150561
+
+
+Mem_heap_hi: 0x7efff749321f
+CurrentBlockFreed: 0x7efff7361070
+CurrentBlockSize: 113
+NextBlock Pointer: 0x7efff73610e0
+
+Nextblock size: 150561
+
+
+Mem_heap_hi: 0x7efff74932df
+CurrentBlockFreed: 0x7efff7493220
+CurrentBlockSize: 193
+NextBlock Pointer: 0x7efff74932e0
+was out of bounds
+
+Mem_heap_hi: 0x7efff7493b2f
+CurrentBlockFreed: 0x7efff7361070
+CurrentBlockSize: 113
+NextBlock Pointer: 0x7efff73610e0
+
+Nextblock size: 150561
+
+
+Mem_heap_hi: 0x7efff7493b2f
+CurrentBlockFreed: 0x7efff74932e0
+CurrentBlockSize: 2129
+NextBlock Pointer: 0x7efff7493b30
+was out of bounds
+
+Mem_heap_hi: 0x7efff749433f
+CurrentBlockFreed: 0x7efff72e9800
+CurrentBlockSize: 177
+NextBlock Pointer: 0x7efff72e98b0
+
+Nextblock size: 96
+
+
+Mem_heap_hi: 0x7efff749433f
+CurrentBlockFreed: 0x7efff7494240
+CurrentBlockSize: 257
+NextBlock Pointer: 0x7efff7494340
+was out of bounds
+
+Mem_heap_hi: 0x7efff749444f
+CurrentBlockFreed: 0x7efff73065f0
+CurrentBlockSize: 225
+NextBlock Pointer: 0x7efff73066d0
+
+Nextblock size: 6785
+
+
+Mem_heap_hi: 0x7efff749444f
+CurrentBlockFreed: 0x7efff7494340
+CurrentBlockSize: 273
+NextBlock Pointer: 0x7efff7494450
+was out of bounds
+
+Mem_heap_hi: 0x7efff749444f
+CurrentBlockFreed: 0x7efff7494340
+CurrentBlockSize: 273
+NextBlock Pointer: 0x7efff7494450
+was out of bounds
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff7494450
+CurrentBlockSize: 49569
+NextBlock Pointer: 0x7efff74a05f0
+was out of bounds
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff7494450
+CurrentBlockSize: 49569
+NextBlock Pointer: 0x7efff74a05f0
+was out of bounds
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff7385d00
+CurrentBlockSize: 46081
+NextBlock Pointer: 0x7efff7391100
+
+Nextblock size: 155969
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff72f9d50
+CurrentBlockSize: 3649
+NextBlock Pointer: 0x7efff72fab90
+
+Nextblock size: 10305
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff73c7870
+CurrentBlockSize: 2481
+NextBlock Pointer: 0x7efff73c8220
+
+Nextblock size: 77345
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff7306440
+CurrentBlockSize: 193
+NextBlock Pointer: 0x7efff7306500
+
+Nextblock size: 241
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff73610e0
+CurrentBlockSize: 150561
+NextBlock Pointer: 0x7efff7385d00
+
+Nextblock size: 46080
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff72f9d50
+CurrentBlockSize: 3649
+NextBlock Pointer: 0x7efff72fab90
+
+Nextblock size: 10305
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff73009d0
+CurrentBlockSize: 145
+NextBlock Pointer: 0x7efff7300a60
+
+Nextblock size: 13777
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff72f9d50
+CurrentBlockSize: 3649
+NextBlock Pointer: 0x7efff72fab90
+
+Nextblock size: 10305
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff73db140
+CurrentBlockSize: 237457
+NextBlock Pointer: 0x7efff74150d0
+
+Nextblock size: 273
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff73db140
+CurrentBlockSize: 237457
+NextBlock Pointer: 0x7efff74150d0
+
+Nextblock size: 273
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff74932e0
+CurrentBlockSize: 2129
+NextBlock Pointer: 0x7efff7493b30
+
+Nextblock size: 1809
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff743b200
+CurrentBlockSize: 225
+NextBlock Pointer: 0x7efff743b2e0
+
+Nextblock size: 35169
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff74932e0
+CurrentBlockSize: 2129
+NextBlock Pointer: 0x7efff7493b30
+
+Nextblock size: 1809
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff74932e0
+CurrentBlockSize: 2129
+NextBlock Pointer: 0x7efff7493b30
+
+Nextblock size: 1809
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff743b200
+CurrentBlockSize: 225
+NextBlock Pointer: 0x7efff743b2e0
+
+Nextblock size: 35169
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff72f9d50
+CurrentBlockSize: 3649
+NextBlock Pointer: 0x7efff72fab90
+
+Nextblock size: 10305
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff72f9d50
+CurrentBlockSize: 3649
+NextBlock Pointer: 0x7efff72fab90
+
+Nextblock size: 10305
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff7385d00
+CurrentBlockSize: 46081
+NextBlock Pointer: 0x7efff7391100
+
+Nextblock size: 155969
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff7443c40
+CurrentBlockSize: 241
+NextBlock Pointer: 0x7efff7443d30
+
+Nextblock size: 417
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff7385d00
+CurrentBlockSize: 46081
+NextBlock Pointer: 0x7efff7391100
+
+Nextblock size: 155969
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff7385d00
+CurrentBlockSize: 46081
+NextBlock Pointer: 0x7efff7391100
+
+Nextblock size: 155969
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff7385d00
+CurrentBlockSize: 46081
+NextBlock Pointer: 0x7efff7391100
+
+Nextblock size: 155969
+
+
+Mem_heap_hi: 0x7efff74a05ef
+CurrentBlockFreed: 0x7efff7385d00
+CurrentBlockSize: 46081
+NextBlock Pointer: 0x7efff7391100
+
+Nextblock size: 155969
+
+
+Mem_heap_hi: 0x7efff74bdfdf
+CurrentBlockFreed: 0x7efff7443ed0
+CurrentBlockSize: 1857
+NextBlock Pointer: 0x7efff7444610
+
+Nextblock size: 42897
+
+
+Mem_heap_hi: 0x7efff74bdfdf
+CurrentBlockFreed: 0x7efff7443ed0
+CurrentBlockSize: 1857
+NextBlock Pointer: 0x7efff7444610
+
+Nextblock size: 42897
+
+
+Mem_heap_hi: 0x7efff74bdfdf
+CurrentBlockFreed: 0x7efff7443c40
+CurrentBlockSize: 241
+NextBlock Pointer: 0x7efff7443d30
+
+Nextblock size: 417
+
+
+Mem_heap_hi: 0x7efff74bdfdf
+CurrentBlockFreed: 0x7efff7443c40
+CurrentBlockSize: 241
+NextBlock Pointer: 0x7efff7443d30
+
+Nextblock size: 417
+
+
+Mem_heap_hi: 0x7efff74bdfdf
+CurrentBlockFreed: 0x7efff72e7020
+CurrentBlockSize: 9937
+NextBlock Pointer: 0x7efff72e96f0
+
+Nextblock size: 225
+
+
+Mem_heap_hi: 0x7efff74bdfdf
+CurrentBlockFreed: 0x7efff72e7020
+CurrentBlockSize: 9937
+NextBlock Pointer: 0x7efff72e96f0
+
+Nextblock size: 225
+
+
+Mem_heap_hi: 0x7efff74bdfdf
+CurrentBlockFreed: 0x7efff72e7020
+CurrentBlockSize: 9937
+NextBlock Pointer: 0x7efff72e96f0
+
+Nextblock size: 225
+
+
+Mem_heap_hi: 0x7efff74bdfdf
+CurrentBlockFreed: 0x7efff72e7020
+CurrentBlockSize: 9937
+NextBlock Pointer: 0x7efff72e96f0
+
+Nextblock size: 225
+
+
+Mem_heap_hi: 0x7efff74bdfdf
+CurrentBlockFreed: 0x7efff744eda0
+CurrentBlockSize: 199137
+NextBlock Pointer: 0x7efff747f780
+
+Nextblock size: 209
+
+
+Mem_heap_hi: 0x7efff74bdfdf
+CurrentBlockFreed: 0x7efff744eda0
+CurrentBlockSize: 199137
+NextBlock Pointer: 0x7efff747f780
+
+Nextblock size: 209
+
+
+Mem_heap_hi: 0x7efff74bdfdf
+CurrentBlockFreed: 0x7efff747f850
+CurrentBlockSize: 80337
+NextBlock Pointer: 0x7efff7493220
+
+Nextblock size: 192
+
+
+Mem_heap_hi: 0x7efff74bdfdf
+CurrentBlockFreed: 0x7efff7443ed0
+CurrentBlockSize: 1857
+NextBlock Pointer: 0x7efff7444610
+
+Nextblock size: 42897
+
+
+Mem_heap_hi: 0x7efff74bdfdf
+CurrentBlockFreed: 0x7efff72eace0
+CurrentBlockSize: 273
+NextBlock Pointer: 0x7efff72eadf0
+
+Nextblock size: 257
+
+
+Mem_heap_hi: 0x7efff74bdfdf
+CurrentBlockFreed: 0x7efff7300660
+CurrentBlockSize: 209
+NextBlock Pointer: 0x7efff7300730
+
+Nextblock size: 225
+
+
+Mem_heap_hi: 0x7efff74bdfdf
+CurrentBlockFreed: 0x7efff747f850
+CurrentBlockSize: 80337
+NextBlock Pointer: 0x7efff7493220
+
+Nextblock size: 192
+
+
+Mem_heap_hi: 0x7efff74bdfdf
+CurrentBlockFreed: 0x7efff747f850
+CurrentBlockSize: 80337
+NextBlock Pointer: 0x7efff7493220
+
+Nextblock size: 192
+
+
+Mem_heap_hi: 0x7efff74bdfdf
+CurrentBlockFreed: 0x7efff7360680
+CurrentBlockSize: 2209
+NextBlock Pointer: 0x7efff7360f20
+
+Nextblock size: 65
+
+
+Mem_heap_hi: 0x7efff74bdfdf
+CurrentBlockFreed: 0x7efff7360680
+CurrentBlockSize: 2209
+NextBlock Pointer: 0x7efff7360f20
+
+Nextblock size: 65
+
+
+Mem_heap_hi: 0x7efff74bdfdf
+CurrentBlockFreed: 0x7efff7360680
+CurrentBlockSize: 2209
+NextBlock Pointer: 0x7efff7360f20
+
+Nextblock size: 65
+
+
+Mem_heap_hi: 0x7efff74f806f
+CurrentBlockFreed: 0x7efff74bdfe0
+CurrentBlockSize: 237713
+NextBlock Pointer: 0x7efff74f8070
+was out of bounds
+
+Mem_heap_hi: 0x7efff74f806f
+CurrentBlockFreed: 0x7efff73008e0
+CurrentBlockSize: 241
+NextBlock Pointer: 0x7efff73009d0
+
+Nextblock size: 144
+
+
+Mem_heap_hi: 0x7efff74f806f
+CurrentBlockFreed: 0x7efff7493b30
+CurrentBlockSize: 1809
+NextBlock Pointer: 0x7efff7494240
+
+Nextblock size: 256
+
+
+Mem_heap_hi: 0x7efff74f806f
+CurrentBlockFreed: 0x7efff74bdfe0
+CurrentBlockSize: 237713
+NextBlock Pointer: 0x7efff74f8070
+was out of bounds
+
+Mem_heap_hi: 0x7efff74f806f
+CurrentBlockFreed: 0x7efff7304030
+CurrentBlockSize: 3089
+NextBlock Pointer: 0x7efff7304c40
+
+Nextblock size: 4849
+
+
+Mem_heap_hi: 0x7efff74f806f
+CurrentBlockFreed: 0x7efff74bdfe0
+CurrentBlockSize: 237713
+NextBlock Pointer: 0x7efff74f8070
+was out of bounds
+
+Mem_heap_hi: 0x7efff74f806f
+CurrentBlockFreed: 0x7efff730ee80
+CurrentBlockSize: 188657
+NextBlock Pointer: 0x7efff733cf70
+
+Nextblock size: 145169
+
+
+Mem_heap_hi: 0x7efff74f806f
+CurrentBlockFreed: 0x7efff730ee80
+CurrentBlockSize: 188657
+NextBlock Pointer: 0x7efff733cf70
+
+Nextblock size: 145169
+
+
+Mem_heap_hi: 0x7efff74f806f
+CurrentBlockFreed: 0x7efff7391100
+CurrentBlockSize: 155969
+NextBlock Pointer: 0x7efff73b7240
+
+Nextblock size: 113
+
+
+Mem_heap_hi: 0x7efff74f806f
+CurrentBlockFreed: 0x7efff73066d0
+CurrentBlockSize: 6785
+NextBlock Pointer: 0x7efff7308150
+
+Nextblock size: 113
+
+
+Mem_heap_hi: 0x7efff74f806f
+CurrentBlockFreed: 0x7efff7391100
+CurrentBlockSize: 155969
+NextBlock Pointer: 0x7efff73b7240
+
+Nextblock size: 113
+
+
+Mem_heap_hi: 0x7efff74f806f
+CurrentBlockFreed: 0x7efff72fd750
+CurrentBlockSize: 11441
+NextBlock Pointer: 0x7efff7300400
+
+Nextblock size: 609
+
+
+Mem_heap_hi: 0x7efff74f806f
+CurrentBlockFreed: 0x7efff72fd630
+CurrentBlockSize: 289
+NextBlock Pointer: 0x7efff72fd750
+
+Nextblock size: 11441
+
+
+Mem_heap_hi: 0x7efff74f806f
+CurrentBlockFreed: 0x7efff73b8270
+CurrentBlockSize: 97
+NextBlock Pointer: 0x7efff73b82d0
+
+Nextblock size: 209
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74f8070
+CurrentBlockSize: 250385
+NextBlock Pointer: 0x7efff7535280
+was out of bounds
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74f8070
+CurrentBlockSize: 250385
+NextBlock Pointer: 0x7efff7535280
+was out of bounds
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74f8070
+CurrentBlockSize: 250385
+NextBlock Pointer: 0x7efff7535280
+was out of bounds
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff744eda0
+CurrentBlockSize: 199137
+NextBlock Pointer: 0x7efff747f780
+
+Nextblock size: 209
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff741bd30
+CurrentBlockSize: 113857
+NextBlock Pointer: 0x7efff74379f0
+
+Nextblock size: 14353
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff72fd470
+CurrentBlockSize: 449
+NextBlock Pointer: 0x7efff72fd630
+
+Nextblock size: 288
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff72fd470
+CurrentBlockSize: 449
+NextBlock Pointer: 0x7efff72fd630
+
+Nextblock size: 288
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff72fd470
+CurrentBlockSize: 449
+NextBlock Pointer: 0x7efff72fd630
+
+Nextblock size: 288
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff7304c40
+CurrentBlockSize: 4849
+NextBlock Pointer: 0x7efff7305f30
+
+Nextblock size: 161
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff741bd30
+CurrentBlockSize: 113857
+NextBlock Pointer: 0x7efff74379f0
+
+Nextblock size: 14353
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74f8070
+CurrentBlockSize: 250385
+NextBlock Pointer: 0x7efff7535280
+was out of bounds
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff73db140
+CurrentBlockSize: 237457
+NextBlock Pointer: 0x7efff74150d0
+
+Nextblock size: 273
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74bdfe0
+CurrentBlockSize: 237713
+NextBlock Pointer: 0x7efff74f8070
+
+Nextblock size: 250384
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff7443d30
+CurrentBlockSize: 417
+NextBlock Pointer: 0x7efff7443ed0
+
+Nextblock size: 1856
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff7385d00
+CurrentBlockSize: 46081
+NextBlock Pointer: 0x7efff7391100
+
+Nextblock size: 155969
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff7385d00
+CurrentBlockSize: 46081
+NextBlock Pointer: 0x7efff7391100
+
+Nextblock size: 155969
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74151e0
+CurrentBlockSize: 6129
+NextBlock Pointer: 0x7efff74169d0
+
+Nextblock size: 21345
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff7300730
+CurrentBlockSize: 225
+NextBlock Pointer: 0x7efff7300810
+
+Nextblock size: 209
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74151e0
+CurrentBlockSize: 6129
+NextBlock Pointer: 0x7efff74169d0
+
+Nextblock size: 21345
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74151e0
+CurrentBlockSize: 6129
+NextBlock Pointer: 0x7efff74169d0
+
+Nextblock size: 21345
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74151e0
+CurrentBlockSize: 6129
+NextBlock Pointer: 0x7efff74169d0
+
+Nextblock size: 21345
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff73b83a0
+CurrentBlockSize: 9281
+NextBlock Pointer: 0x7efff73ba7e0
+
+Nextblock size: 17169
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff73b83a0
+CurrentBlockSize: 9281
+NextBlock Pointer: 0x7efff73ba7e0
+
+Nextblock size: 17169
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff72fab90
+CurrentBlockSize: 10305
+NextBlock Pointer: 0x7efff72fd3d0
+
+Nextblock size: 160
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff72e9a10
+CurrentBlockSize: 4817
+NextBlock Pointer: 0x7efff72eace0
+
+Nextblock size: 272
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff72fd750
+CurrentBlockSize: 11441
+NextBlock Pointer: 0x7efff7300400
+
+Nextblock size: 609
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff73db040
+CurrentBlockSize: 257
+NextBlock Pointer: 0x7efff73db140
+
+Nextblock size: 237456
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff73db040
+CurrentBlockSize: 257
+NextBlock Pointer: 0x7efff73db140
+
+Nextblock size: 237456
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff72e9990
+CurrentBlockSize: 129
+NextBlock Pointer: 0x7efff72e9a10
+
+Nextblock size: 4816
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74bdfe0
+CurrentBlockSize: 237713
+NextBlock Pointer: 0x7efff74f8070
+
+Nextblock size: 250384
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff7360f20
+CurrentBlockSize: 65
+NextBlock Pointer: 0x7efff7360f60
+
+Nextblock size: 273
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74bdfe0
+CurrentBlockSize: 237713
+NextBlock Pointer: 0x7efff74f8070
+
+Nextblock size: 250384
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74a05f0
+CurrentBlockSize: 121329
+NextBlock Pointer: 0x7efff74bdfe0
+
+Nextblock size: 237712
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff72fd750
+CurrentBlockSize: 11441
+NextBlock Pointer: 0x7efff7300400
+
+Nextblock size: 609
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff7306500
+CurrentBlockSize: 241
+NextBlock Pointer: 0x7efff73065f0
+
+Nextblock size: 224
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff7306500
+CurrentBlockSize: 241
+NextBlock Pointer: 0x7efff73065f0
+
+Nextblock size: 224
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff7443d30
+CurrentBlockSize: 417
+NextBlock Pointer: 0x7efff7443ed0
+
+Nextblock size: 1856
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff73db140
+CurrentBlockSize: 237457
+NextBlock Pointer: 0x7efff74150d0
+
+Nextblock size: 273
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74150d0
+CurrentBlockSize: 273
+NextBlock Pointer: 0x7efff74151e0
+
+Nextblock size: 6129
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff73db140
+CurrentBlockSize: 237457
+NextBlock Pointer: 0x7efff74150d0
+
+Nextblock size: 272
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74932e0
+CurrentBlockSize: 2129
+NextBlock Pointer: 0x7efff7493b30
+
+Nextblock size: 1808
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff72fd750
+CurrentBlockSize: 11441
+NextBlock Pointer: 0x7efff7300400
+
+Nextblock size: 609
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff72fd750
+CurrentBlockSize: 11441
+NextBlock Pointer: 0x7efff7300400
+
+Nextblock size: 609
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff72eaef0
+CurrentBlockSize: 257
+NextBlock Pointer: 0x7efff72eaff0
+
+Nextblock size: 60081
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff72eaef0
+CurrentBlockSize: 257
+NextBlock Pointer: 0x7efff72eaff0
+
+Nextblock size: 60081
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff73c8220
+CurrentBlockSize: 77345
+NextBlock Pointer: 0x7efff73db040
+
+Nextblock size: 256
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff73c8220
+CurrentBlockSize: 77345
+NextBlock Pointer: 0x7efff73db040
+
+Nextblock size: 256
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74a05f0
+CurrentBlockSize: 121329
+NextBlock Pointer: 0x7efff74bdfe0
+
+Nextblock size: 237713
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74a05f0
+CurrentBlockSize: 121329
+NextBlock Pointer: 0x7efff74bdfe0
+
+Nextblock size: 237713
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74a05f0
+CurrentBlockSize: 121329
+NextBlock Pointer: 0x7efff74bdfe0
+
+Nextblock size: 237713
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74379f0
+CurrentBlockSize: 14353
+NextBlock Pointer: 0x7efff743b200
+
+Nextblock size: 224
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74379f0
+CurrentBlockSize: 14353
+NextBlock Pointer: 0x7efff743b200
+
+Nextblock size: 224
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74379f0
+CurrentBlockSize: 14353
+NextBlock Pointer: 0x7efff743b200
+
+Nextblock size: 224
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74a05f0
+CurrentBlockSize: 121329
+NextBlock Pointer: 0x7efff74bdfe0
+
+Nextblock size: 237713
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74a05f0
+CurrentBlockSize: 121329
+NextBlock Pointer: 0x7efff74bdfe0
+
+Nextblock size: 237713
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74bdfe0
+CurrentBlockSize: 237713
+NextBlock Pointer: 0x7efff74f8070
+
+Nextblock size: 250384
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff74bdfe0
+CurrentBlockSize: 237713
+NextBlock Pointer: 0x7efff74f8070
+
+Nextblock size: 250384
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff73610e0
+CurrentBlockSize: 150561
+NextBlock Pointer: 0x7efff7385d00
+
+Nextblock size: 46081
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff73610e0
+CurrentBlockSize: 150561
+NextBlock Pointer: 0x7efff7385d00
+
+Nextblock size: 46081
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff73610e0
+CurrentBlockSize: 150561
+NextBlock Pointer: 0x7efff7385d00
+
+Nextblock size: 46081
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff73610e0
+CurrentBlockSize: 150561
+NextBlock Pointer: 0x7efff7385d00
+
+Nextblock size: 46081
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff73610e0
+CurrentBlockSize: 150561
+NextBlock Pointer: 0x7efff7385d00
+
+Nextblock size: 46081
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff73beaf0
+CurrentBlockSize: 36225
+NextBlock Pointer: 0x7efff73c7870
+
+Nextblock size: 2481
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff7304030
+CurrentBlockSize: 3089
+NextBlock Pointer: 0x7efff7304c40
+
+Nextblock size: 4848
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff747f780
+CurrentBlockSize: 209
+NextBlock Pointer: 0x7efff747f850
+
+Nextblock size: 80337
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff73b72b0
+CurrentBlockSize: 241
+NextBlock Pointer: 0x7efff73b73a0
+
+Nextblock size: 81
+
+
+Mem_heap_hi: 0x7efff753527f
+CurrentBlockFreed: 0x7efff73beaf0
+CurrentBlockSize: 36225
+NextBlock Pointer: 0x7efff73c7870
+
+Nextblock size: 2481
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7308150
+CurrentBlockSize: 113
+NextBlock Pointer: 0x7efff73081c0
+
+Nextblock size: 27841
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73beaf0
+CurrentBlockSize: 36225
+NextBlock Pointer: 0x7efff73c7870
+
+Nextblock size: 2481
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73066d0
+CurrentBlockSize: 6785
+NextBlock Pointer: 0x7efff7308150
+
+Nextblock size: 113
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73066d0
+CurrentBlockSize: 6785
+NextBlock Pointer: 0x7efff7308150
+
+Nextblock size: 113
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73066d0
+CurrentBlockSize: 6785
+NextBlock Pointer: 0x7efff7308150
+
+Nextblock size: 113
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73b73f0
+CurrentBlockSize: 145
+NextBlock Pointer: 0x7efff73b7480
+
+Nextblock size: 3569
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73066d0
+CurrentBlockSize: 6785
+NextBlock Pointer: 0x7efff7308150
+
+Nextblock size: 113
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73066d0
+CurrentBlockSize: 6785
+NextBlock Pointer: 0x7efff7308150
+
+Nextblock size: 113
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7360680
+CurrentBlockSize: 2209
+NextBlock Pointer: 0x7efff7360f20
+
+Nextblock size: 64
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7360680
+CurrentBlockSize: 2209
+NextBlock Pointer: 0x7efff7360f20
+
+Nextblock size: 64
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff72e9910
+CurrentBlockSize: 129
+NextBlock Pointer: 0x7efff72e9990
+
+Nextblock size: 128
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7360680
+CurrentBlockSize: 2209
+NextBlock Pointer: 0x7efff7360f20
+
+Nextblock size: 64
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7360f60
+CurrentBlockSize: 273
+NextBlock Pointer: 0x7efff7361070
+
+Nextblock size: 112
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff72eaff0
+CurrentBlockSize: 60081
+NextBlock Pointer: 0x7efff72f9aa0
+
+Nextblock size: 145
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff72eaff0
+CurrentBlockSize: 60081
+NextBlock Pointer: 0x7efff72f9aa0
+
+Nextblock size: 145
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7300730
+CurrentBlockSize: 225
+NextBlock Pointer: 0x7efff7300810
+
+Nextblock size: 209
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff72eaff0
+CurrentBlockSize: 60081
+NextBlock Pointer: 0x7efff72f9aa0
+
+Nextblock size: 145
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff72eaff0
+CurrentBlockSize: 60081
+NextBlock Pointer: 0x7efff72f9aa0
+
+Nextblock size: 145
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff72eaff0
+CurrentBlockSize: 60081
+NextBlock Pointer: 0x7efff72f9aa0
+
+Nextblock size: 145
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff74bdfe0
+CurrentBlockSize: 237713
+NextBlock Pointer: 0x7efff74f8070
+
+Nextblock size: 250384
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff743b2e0
+CurrentBlockSize: 35169
+NextBlock Pointer: 0x7efff7443c40
+
+Nextblock size: 240
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff74bdfe0
+CurrentBlockSize: 237713
+NextBlock Pointer: 0x7efff74f8070
+
+Nextblock size: 250384
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff74bdfe0
+CurrentBlockSize: 237713
+NextBlock Pointer: 0x7efff74f8070
+
+Nextblock size: 250384
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff74151e0
+CurrentBlockSize: 6129
+NextBlock Pointer: 0x7efff74169d0
+
+Nextblock size: 21345
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff74bdfe0
+CurrentBlockSize: 237713
+NextBlock Pointer: 0x7efff74f8070
+
+Nextblock size: 250384
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff74bdfe0
+CurrentBlockSize: 237713
+NextBlock Pointer: 0x7efff74f8070
+
+Nextblock size: 250384
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7300400
+CurrentBlockSize: 609
+NextBlock Pointer: 0x7efff7300660
+
+Nextblock size: 208
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7300400
+CurrentBlockSize: 609
+NextBlock Pointer: 0x7efff7300660
+
+Nextblock size: 208
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7300400
+CurrentBlockSize: 609
+NextBlock Pointer: 0x7efff7300660
+
+Nextblock size: 208
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7444610
+CurrentBlockSize: 42897
+NextBlock Pointer: 0x7efff744eda0
+
+Nextblock size: 199136
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff730ee80
+CurrentBlockSize: 188657
+NextBlock Pointer: 0x7efff733cf70
+
+Nextblock size: 145169
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff730ee80
+CurrentBlockSize: 188657
+NextBlock Pointer: 0x7efff733cf70
+
+Nextblock size: 145169
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73beaf0
+CurrentBlockSize: 36225
+NextBlock Pointer: 0x7efff73c7870
+
+Nextblock size: 2481
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73b73a0
+CurrentBlockSize: 81
+NextBlock Pointer: 0x7efff73b73f0
+
+Nextblock size: 144
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff730ee80
+CurrentBlockSize: 188657
+NextBlock Pointer: 0x7efff733cf70
+
+Nextblock size: 145169
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff74169d0
+CurrentBlockSize: 21345
+NextBlock Pointer: 0x7efff741bd30
+
+Nextblock size: 113856
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73b7240
+CurrentBlockSize: 113
+NextBlock Pointer: 0x7efff73b72b0
+
+Nextblock size: 240
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff72f9c80
+CurrentBlockSize: 209
+NextBlock Pointer: 0x7efff72f9d50
+
+Nextblock size: 3648
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff72f9c80
+CurrentBlockSize: 209
+NextBlock Pointer: 0x7efff72f9d50
+
+Nextblock size: 3648
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7305f30
+CurrentBlockSize: 161
+NextBlock Pointer: 0x7efff7305fd0
+
+Nextblock size: 1137
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7300810
+CurrentBlockSize: 209
+NextBlock Pointer: 0x7efff73008e0
+
+Nextblock size: 240
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7300810
+CurrentBlockSize: 209
+NextBlock Pointer: 0x7efff73008e0
+
+Nextblock size: 240
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff74169d0
+CurrentBlockSize: 21345
+NextBlock Pointer: 0x7efff741bd30
+
+Nextblock size: 113856
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff730ee80
+CurrentBlockSize: 188657
+NextBlock Pointer: 0x7efff733cf70
+
+Nextblock size: 145169
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff730ee80
+CurrentBlockSize: 188657
+NextBlock Pointer: 0x7efff733cf70
+
+Nextblock size: 145169
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7300a60
+CurrentBlockSize: 13777
+NextBlock Pointer: 0x7efff7304030
+
+Nextblock size: 3088
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7300a60
+CurrentBlockSize: 13777
+NextBlock Pointer: 0x7efff7304030
+
+Nextblock size: 3088
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7300a60
+CurrentBlockSize: 13777
+NextBlock Pointer: 0x7efff7304030
+
+Nextblock size: 3088
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7300a60
+CurrentBlockSize: 13777
+NextBlock Pointer: 0x7efff7304030
+
+Nextblock size: 3088
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7300a60
+CurrentBlockSize: 13777
+NextBlock Pointer: 0x7efff7304030
+
+Nextblock size: 3088
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7300a60
+CurrentBlockSize: 13777
+NextBlock Pointer: 0x7efff7304030
+
+Nextblock size: 3088
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff72f9b30
+CurrentBlockSize: 193
+NextBlock Pointer: 0x7efff72f9bf0
+
+Nextblock size: 145
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff72f9bf0
+CurrentBlockSize: 145
+NextBlock Pointer: 0x7efff72f9c80
+
+Nextblock size: 208
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7300a60
+CurrentBlockSize: 13777
+NextBlock Pointer: 0x7efff7304030
+
+Nextblock size: 3088
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7300a60
+CurrentBlockSize: 13777
+NextBlock Pointer: 0x7efff7304030
+
+Nextblock size: 3088
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff72f9aa0
+CurrentBlockSize: 145
+NextBlock Pointer: 0x7efff72f9b30
+
+Nextblock size: 192
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73610e0
+CurrentBlockSize: 150561
+NextBlock Pointer: 0x7efff7385d00
+
+Nextblock size: 46081
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73610e0
+CurrentBlockSize: 150561
+NextBlock Pointer: 0x7efff7385d00
+
+Nextblock size: 46081
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73db140
+CurrentBlockSize: 237457
+NextBlock Pointer: 0x7efff74150d0
+
+Nextblock size: 272
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff747f850
+CurrentBlockSize: 80337
+NextBlock Pointer: 0x7efff7493220
+
+Nextblock size: 192
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff747f850
+CurrentBlockSize: 80337
+NextBlock Pointer: 0x7efff7493220
+
+Nextblock size: 192
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff747f850
+CurrentBlockSize: 80337
+NextBlock Pointer: 0x7efff7493220
+
+Nextblock size: 192
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff747f850
+CurrentBlockSize: 80337
+NextBlock Pointer: 0x7efff7493220
+
+Nextblock size: 192
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7535280
+CurrentBlockSize: 250577
+NextBlock Pointer: 0x7efff7572550
+was out of bounds
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff74151e0
+CurrentBlockSize: 6129
+NextBlock Pointer: 0x7efff74169d0
+
+Nextblock size: 21344
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73b7480
+CurrentBlockSize: 3569
+NextBlock Pointer: 0x7efff73b8270
+
+Nextblock size: 96
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73beaf0
+CurrentBlockSize: 36225
+NextBlock Pointer: 0x7efff73c7870
+
+Nextblock size: 2481
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73beaf0
+CurrentBlockSize: 36225
+NextBlock Pointer: 0x7efff73c7870
+
+Nextblock size: 2481
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73beaf0
+CurrentBlockSize: 36225
+NextBlock Pointer: 0x7efff73c7870
+
+Nextblock size: 2481
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff733cf70
+CurrentBlockSize: 145169
+NextBlock Pointer: 0x7efff7360680
+
+Nextblock size: 2208
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73c7870
+CurrentBlockSize: 2481
+NextBlock Pointer: 0x7efff73c8220
+
+Nextblock size: 77344
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7305fd0
+CurrentBlockSize: 1137
+NextBlock Pointer: 0x7efff7306440
+
+Nextblock size: 193
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7308150
+CurrentBlockSize: 113
+NextBlock Pointer: 0x7efff73081c0
+
+Nextblock size: 27841
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7305fd0
+CurrentBlockSize: 1137
+NextBlock Pointer: 0x7efff7306440
+
+Nextblock size: 193
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff72fd750
+CurrentBlockSize: 11441
+NextBlock Pointer: 0x7efff7300400
+
+Nextblock size: 608
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7385d00
+CurrentBlockSize: 46081
+NextBlock Pointer: 0x7efff7391100
+
+Nextblock size: 155969
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73081c0
+CurrentBlockSize: 27841
+NextBlock Pointer: 0x7efff730ee80
+
+Nextblock size: 188656
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73b82d0
+CurrentBlockSize: 209
+NextBlock Pointer: 0x7efff73b83a0
+
+Nextblock size: 9280
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff72e96f0
+CurrentBlockSize: 225
+NextBlock Pointer: 0x7efff72e97d0
+
+Nextblock size: 48
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7391100
+CurrentBlockSize: 155969
+NextBlock Pointer: 0x7efff73b7240
+
+Nextblock size: 112
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff72eadf0
+CurrentBlockSize: 257
+NextBlock Pointer: 0x7efff72eaef0
+
+Nextblock size: 256
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff72eadf0
+CurrentBlockSize: 257
+NextBlock Pointer: 0x7efff72eaef0
+
+Nextblock size: 256
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73ba7e0
+CurrentBlockSize: 17169
+NextBlock Pointer: 0x7efff73beaf0
+
+Nextblock size: 36224
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7306440
+CurrentBlockSize: 193
+NextBlock Pointer: 0x7efff7306500
+
+Nextblock size: 240
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff7306440
+CurrentBlockSize: 193
+NextBlock Pointer: 0x7efff7306500
+
+Nextblock size: 240
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73ba7e0
+CurrentBlockSize: 17169
+NextBlock Pointer: 0x7efff73beaf0
+
+Nextblock size: 36224
+
+
+Mem_heap_hi: 0x7efff757254f
+CurrentBlockFreed: 0x7efff73ba7e0
+CurrentBlockSize: 17169
+NextBlock Pointer: 0x7efff73beaf0
+
+Nextblock size: 36224
+
+
+
+correctness check finished, by running tracefile "traces/syn-mix-realloc.rep".
+ => correct.
+
+Average utilization = 0.0%. Average throughput = 0 Kops/sec
+
+***Checkpoint 1 correctness index = 50.0/50.0***
+
+Average utilization = 0.0%. Average throughput = 0 Kops/sec
+Utilization targets: min=30.0%, max=50.0%
+Throughput targets: min=0, max=1261, benchmark=25226
+
+***Final perf index = 0.0 (util) + 0.0 (thru) = 0.0/100.0***
+Average utilization = 0.0%. Average throughput = 0 Kops/sec
+Utilization targets: min=40.0%, max=63.0%
+Throughput targets: min=7568, max=8829, benchmark=25226
+
+Score: Checkpoint 1: 50 / 50, Final: 0 / 100
